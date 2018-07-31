@@ -1,0 +1,28 @@
+{
+  "name": "pdialexandre",
+  "version": "1.0.0",
+  "description": "api pdi",
+  "main": "server.js",
+  "author": "alexandre lorencini",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandrelorencini/pdiAlexandre.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "body-parser": "^1.18.1",
+    "faker": "^4.1.0",
+    "mongoose": "*",
+    "request": "^2.82.0",
+    "lowdb": "^1.0.0",
+    "uuid": "^3.3.2",
+    "validator": "^9.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
