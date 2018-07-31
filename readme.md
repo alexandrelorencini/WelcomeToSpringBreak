@@ -1,9 +1,9 @@
-# Let's go to Spring Break!#
+# Let's go to Spring Break! #
 
 Você e seus amigos decidiram realizar uma viagem para conhecerem o Spring Break Cancun em 2019. Para que este sonho se torne realidade, cada um deve conseguir R$ 10.000,00 para pagar o custo de sua viagem. Como são amigos a muito tempo, vocês decidiram guardar o dinheiro juntos e emprestar para um bancário que lhes dará uma taxa de juros de 1% ao dia.
 Como você é a única pessoa que conhece programação entre seus amigos, você decidiu criar uma API em JavaScript que auxilie na gestão e acompanhamento desse objetivo.
 
-## Regras de negócio:##
+## Regras de negócio: ##
 
 * A data limite para conseguirem o dinheiro é 01/03/2019 (DD/MM/AAAA);
 * A taxa de juros acontece sobre cada operação e é recebido pelos amigos exatamente às 00:00 de cada dia. Você deve considerar juros sobre juros (dica: os valores dos juros não precisam ser armazenados, eles podem ser calculados em tempo de execução);
