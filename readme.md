@@ -11,7 +11,7 @@ Como você é a única pessoa que conhece programação entre seus amigos, você
 
 ### A seguinte lista de APIs devem estar disponíveis:
 
-1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O
+### 1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O
 esquema base desta API é exibido abaixo:
 {
 “id”: “3858bd85-b2dc-4fbf-a271-d04b4b2e8a2e”, “name”: “Emma Thomas” }
@@ -28,14 +28,14 @@ amigos;
 d. Deletar pessoa: Você deseja deletar seus amigos por ID. Ao deletar um
 amigo, todas as suas receitas também devem ser deletadas. 
 
-2. Receita: Uma API para gerenciar o dinheiro que você e seus amigos conseguirem
+### 2. Receita: Uma API para gerenciar o dinheiro que você e seus amigos conseguirem
 ao longo do tempo. O esquema base desta API é exibido abaixo:
 
 {
 “id”: “5e04a855-71e1-4650-8cdb-252d0a160af3”, “code”: “5E04A855”, “date”: “20/04/2018”, “value”: 250.50, “note”: “Dinheiro que minha mãe me deu...”, “person”: {
 “id”: “3858bd85-b2dc-4fbf-a271-d04b4b2e8a2e” } }
 
-#A descrição das APIs é exibida a seguir:
+#### A descrição das APIs é exibida a seguir:
 
 a. Cadastrar receita: Você quer que o ID e o código sejam gerados pela API. O código consiste dos oito primeiros carácteres do ID e todas as letras devem ser maiúsculas. O campo de data deve respeitar a máscara DD/MM/AAAA. O campo de valor deve ser um número positivo de até duas casas decimais. O campo de observação deve suportar até 255 caracteres e não é obrigatório. O campo de pessoa deve conter o ID da pessoa que está fazendo o depósito; 
 
@@ -47,7 +47,8 @@ receitas, incluindo o nome do seu amigo que fez o depósito;
 
 d. Deletar receita: Você deseja apagar uma receita. 
 
-3. How much do we have: Esta API deve calcular, considerando os valores dos juros (e do juros sobre juros), o valor total arrecadado naquele momento. O valor deve ser exibido no formato Brasileiro de moeda (por exemplo, R$ 5.436,67). 
+#### 3. How much do we have: Esta API deve calcular, considerando os valores dos juros (e do juros sobre juros), o valor total arrecadado naquele momento. O valor deve ser exibido no formato Brasileiro de moeda (por exemplo, R$ 5.436,67). 
 
-4. Are we going to Spring Break: Esta API deve calcular, baseado no valor que vocês têm até o momento e os juros que que serão ganhos até a data da viagem, se a viagem irá acontecer ou não. Esta API deve retornar um valor booleano true caso a viagem é possível ou false se a viagem não for possível.
-As tecnologias que podem ser utilizadas para a resolução deste problema são o Node JS e o Express para a criação das APIs.
+#### 4. Are we going to Spring Break: Esta API deve calcular, baseado no valor que vocês têm até o momento e os juros que que serão ganhos até a data da viagem, se a viagem irá acontecer ou não. Esta API deve retornar um valor booleano true caso a viagem é possível ou false se a viagem não for possível.
+
+#### As tecnologias que podem ser utilizadas para a resolução deste problema são o Node JS e o Express para a criação das APIs.
