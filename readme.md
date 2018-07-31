@@ -5,9 +5,9 @@ Como você é a única pessoa que conhece programação entre seus amigos, você
 
 ## Regras de negócio:
 
-• A data limite para conseguirem o dinheiro é 01/03/2019 (DD/MM/AAAA);
-• A taxa de juros acontece sobre cada operação e é recebido pelos amigos exatamente às 00:00 de cada dia. Você deve considerar juros sobre juros (dica: os valores dos juros não precisam ser armazenados, eles podem ser calculados em tempo de execução);
-• Não deve ser possível adicionar uma receita para uma data futura;
+*  A data limite para conseguirem o dinheiro é 01/03/2019 (DD/MM/AAAA);
+* A taxa de juros acontece sobre cada operação e é recebido pelos amigos exatamente às 00:00 de cada dia. Você deve considerar juros sobre juros (dica: os valores dos juros não precisam ser armazenados, eles podem ser calculados em tempo de execução);
+* Não deve ser possível adicionar uma receita para uma data futura;
 
 ### A seguinte lista de APIs devem estar disponíveis:
 
