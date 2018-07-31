@@ -5,11 +5,11 @@ Como você é a única pessoa que conhece programação entre seus amigos, você
 
 ## Regras de negócio:
 
-*  A data limite para conseguirem o dinheiro é 01/03/2019 (DD/MM/AAAA);
+* A data limite para conseguirem o dinheiro é 01/03/2019 (DD/MM/AAAA);
 * A taxa de juros acontece sobre cada operação e é recebido pelos amigos exatamente às 00:00 de cada dia. Você deve considerar juros sobre juros (dica: os valores dos juros não precisam ser armazenados, eles podem ser calculados em tempo de execução);
 * Não deve ser possível adicionar uma receita para uma data futura;
 
-### A seguinte lista de APIs devem estar disponíveis:
+## A seguinte lista de APIs devem estar disponíveis:
 
 ### 1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O
 esquema base desta API é exibido abaixo:
@@ -28,8 +28,7 @@ amigos;
 d. Deletar pessoa: Você deseja deletar seus amigos por ID. Ao deletar um
 amigo, todas as suas receitas também devem ser deletadas. 
 
-### 2. Receita: Uma API para gerenciar o dinheiro que você e seus amigos conseguirem
-ao longo do tempo. O esquema base desta API é exibido abaixo:
+### 2. Receita: Uma API para gerenciar o dinheiro que você e seus amigos conseguirem ao longo do tempo. O esquema base desta API é exibido abaixo:
 
 {
 “id”: “5e04a855-71e1-4650-8cdb-252d0a160af3”, “code”: “5E04A855”, “date”: “20/04/2018”, “value”: 250.50, “note”: “Dinheiro que minha mãe me deu...”, “person”: {
@@ -47,8 +46,8 @@ receitas, incluindo o nome do seu amigo que fez o depósito;
 
 d. Deletar receita: Você deseja apagar uma receita. 
 
-#### 3. How much do we have: Esta API deve calcular, considerando os valores dos juros (e do juros sobre juros), o valor total arrecadado naquele momento. O valor deve ser exibido no formato Brasileiro de moeda (por exemplo, R$ 5.436,67). 
+### 3. How much do we have: Esta API deve calcular, considerando os valores dos juros (e do juros sobre juros), o valor total arrecadado naquele momento. O valor deve ser exibido no formato Brasileiro de moeda (por exemplo, R$ 5.436,67). 
 
-#### 4. Are we going to Spring Break: Esta API deve calcular, baseado no valor que vocês têm até o momento e os juros que que serão ganhos até a data da viagem, se a viagem irá acontecer ou não. Esta API deve retornar um valor booleano true caso a viagem é possível ou false se a viagem não for possível.
+### 4. Are we going to Spring Break: Esta API deve calcular, baseado no valor que vocês têm até o momento e os juros que que serão ganhos até a data da viagem, se a viagem irá acontecer ou não. Esta API deve retornar um valor booleano true caso a viagem é possível ou false se a viagem não for possível.
 
 #### As tecnologias que podem ser utilizadas para a resolução deste problema são o Node JS e o Express para a criação das APIs.
