@@ -11,8 +11,8 @@ Como você é a única pessoa que conhece programação entre seus amigos, você
 
 ## A seguinte lista de APIs devem estar disponíveis:
 
-### 1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O
-esquema base desta API é exibido abaixo:
+### 1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O esquema base desta API é exibido abaixo: ###
+
 {
 “id”: “3858bd85-b2dc-4fbf-a271-d04b4b2e8a2e”, “name”: “Emma Thomas” }
 
