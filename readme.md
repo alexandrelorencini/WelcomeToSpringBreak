@@ -9,14 +9,14 @@ Como você é a única pessoa que conhece programação entre seus amigos, você
 • A taxa de juros acontece sobre cada operação e é recebido pelos amigos exatamente às 00:00 de cada dia. Você deve considerar juros sobre juros (dica: os valores dos juros não precisam ser armazenados, eles podem ser calculados em tempo de execução);
 • Não deve ser possível adicionar uma receita para uma data futura;
 
-#A seguinte lista de APIs devem estar disponíveis:
+### A seguinte lista de APIs devem estar disponíveis:
 
 1. Pessoa: Uma API para gerenciar seus amigos que irão participar da viagem. O
 esquema base desta API é exibido abaixo:
 {
 “id”: “3858bd85-b2dc-4fbf-a271-d04b4b2e8a2e”, “name”: “Emma Thomas” }
 
-#A descrição das APIs é exibida a seguir:
+#### A descrição das APIs é exibida a seguir:
 
 a. Cadastrar pessoa: Você deseja salvar apenas o nome dos seus amigos. A API deve gerar um UUID versão 4 como ID para cada registro que for cadastrado. O tamanho máximo do nome deve ser 80 carácteres; 
 
