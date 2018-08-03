@@ -46,6 +46,11 @@ router.get('/', function (req, res) {
     res.json({ message: 'Beleza! Bem vindo a nossa Loja XYZ' })
 });
 
+//================================================
+
+//API's:
+
+
 //Definição de padrão de rotas pré-fixadas: '/api':
 app.use('/api', router);
 
