@@ -1,0 +1,14 @@
+[
+    {{#repeat 2}}
+      {
+          "id": "{{@index}}",
+          "order": "{{@index}}",
+          "description": "{{country}}",
+          "editable": {{boolean}},
+          "dataType": {
+            "id": "{{guid}}",
+            "description": "currency"
+          }
+      }
+    {{/repeat}}
+]

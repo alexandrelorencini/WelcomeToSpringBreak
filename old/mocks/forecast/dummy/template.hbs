@@ -1,0 +1,54 @@
+{
+    "items": [
+    {{#repeat 2}}
+        {
+            "id": "{{guid}}",
+            "description": "{{company}} {{city}} {{country}} {{date '2018' '2018' 'YYYY'}}",
+            "fixedDimensions": {{boolean}},
+            "fixedMeasures": {{boolean}},
+            "dimensions": {
+                "id": "0",
+                "dataset": {
+                    "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+                    "alias": "Filial"
+                },
+                "child": {
+                    "id": "1",
+                    "dataset": {
+                        "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+                        "alias": "Profissional"
+                    },
+                    "child": {
+                        "id": "2",
+                        "dataset": {
+                            "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                            "alias": "Cliente"
+                        },
+                        "child": {
+                            "id": "3",
+                            "dataset": {
+                                "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                                "alias": "Produto"
+                            }
+                        }
+                    }
+                }
+            },
+            "measures": [
+                {{#repeat 2}}
+                  {
+                      "id": "{{@index}}",
+                      "order": "{{@index}}",
+                      "description": "{{country}}",
+                      "editable": {{boolean}},
+                      "format": {}
+                  }
+                {{/repeat}}
+            ]
+        }
+    {{/repeat}}
+    ],
+    "count": 2,
+    "page": 0,
+    "pageSize": 500
+}

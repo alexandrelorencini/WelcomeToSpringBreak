@@ -1,0 +1,397 @@
+{
+	"info": {
+		"_postman_id": "17340828-b113-4c25-ba62-cb68c0e7c4fe",
+		"name": "Mock BTB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/meta-objects",
+			"description": "",
+			"item": [
+				{
+					"name": "meta-objects - GET ALL",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-objects - New Object",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "df52530d-051a-47d9-b207-89cbbfee3e4a",
+								"type": "text/javascript",
+								"exec": [
+									"eval(globals.postmanBDD);",
+									"let object = response.body.id;",
+									"postman.setEnvironmentVariable(\"META_OBJECT_ID\", object);",
+									"",
+									"console.log(object)",
+									"console.log(postman.getEnvironmentVariable(\"META_OBJECT_ID\"))"
+								]
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"objectName\": \"Bashosen\",\r\n  \"description\": \"The hammer of Goku\",\r\n  \"microService\": \"Namekusei\",\r\n  \"offlineAvailable\": true,\r\n  \"required\": true\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-objects - Get with ID",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-objects - Update an Object",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"objectName\": \"Bashosen\",\n    \"description\": \"The hammer of Goku\",\n    \"microService\": \"Namekusei\",\n    \"required\": true,\n    \"id\": \"2a518cbf-c7f2-4079-9ab5-bd54347c1ce6\",\n    \"standard\": false,\n    \"active\": false,\n    \"objectVersion\": 1,\n    \"createdById\": \"087c3bfd-8a26-48d1-8bd4-4c176539fd59\",\n    \"parentObject\": {\n        \"id\": \"31647bae-4553-4c76-a53c-e256925e7d75\"\n    },\n    \"createdByName\": \"Tiara Rolfson\",\n    \"createdAt\": \"2018-07-18T14:18:52.791Z\",\n    \"updatedById\": \"087c3bfd-8a26-48d1-8bd4-4c176539fd59\",\n    \"updatedByName\": \"Tiara Rolfson\",\n    \"updatedAt\": \"2018-07-18T14:18:52.791Z\",\n    \"externalId\": \"44c91e89-6d78-42bc-88b1-6ab4660bbfd8\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-objects - Delete a Object",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"objectName\": \"Bashosen\",\r\n  \"description\": \"The hammer of Goku\",\r\n  \"microService\": \"vegetta\",\r\n  \"offlineAvailable\": false,\r\n  \"id\": \"E09t7hp\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "/meta-attributes",
+			"description": "",
+			"item": [
+				{
+					"name": "meta-attributes - New Attribute",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "95395f4c-056f-4c90-8ba6-4050a3e5908a",
+								"type": "text/javascript",
+								"exec": [
+									"eval(globals.postmanBDD);",
+									"let attribute = response.body.id",
+									"postman.setEnvironmentVariable(\"META_ATTRIBUTE_ID\", attribute);",
+									"",
+									"console.log(attribute)",
+									"console.log(postman.getEnvironmentVariable(\"META_ATTRIBUTE_ID\"))",
+									"",
+									""
+								]
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"attributeName\": \"Utility\",\r\n  \"description\": \"Cloud user registration\",\r\n  \"microService\": \"Namekusei\",\r\n  \"required\": true,\r\n  \"standard\": false,\r\n  \"attributeType\" : \"DATE_TIME_TYPE\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}/meta-attributes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}",
+								"meta-attributes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-attributes - GET with Object and Id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}/meta-attributes/{{META_ATTRIBUTE_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}",
+								"meta-attributes",
+								"{{META_ATTRIBUTE_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-attributes - GET  object attributes",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}/meta-attributes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}",
+								"meta-attributes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-attributes - GET  ALL Attributes",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-attributes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-attributes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-objects - PUT update attribute",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n            \"attributeName\": \"Utility\",\r\n            \"description\": \"description Updated\",\r\n            \"microService\": \"Namekusei\",\r\n            \"required\": true,\r\n            \"attributeType\": \"NUMBER_TYPE\",\r\n            \"id\": \"8bc2dd51-85df-4652-b351-5513b0c8a501\",\r\n            \"attributeVersion\": 1,\r\n            \"numberprecision\": 14,\r\n            \"numberScale\": 4,\r\n            \"numberAllowNegative\": false,\r\n            \"numberDefaultValue\": 8,\r\n            \"createdByName\": \"Jarod Nitzsche\",\r\n            \"createdById\": \"427c2278-d246-4278-b899-6e902b27100f\",\r\n            \"createdAt\": \"2018-07-18T14:43:05.121Z\",\r\n            \"updatedById\": \"427c2278-d246-4278-b899-6e902b27100f\",\r\n            \"updatedByName\": \"Jarod Nitzsche\",\r\n            \"updatedAt\": \"2018-07-18T14:43:05.121Z\",\r\n            \"externalId\": \"f5b21772-fade-48e3-8bf2-5054e79435e6\",\r\n            \"metaObject_Id\": \"{{META_OBJECT_ID}}\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}/meta-attributes/{{META_ATTRIBUTE_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}",
+								"meta-attributes",
+								"{{META_ATTRIBUTE_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "meta-attributes - DEL delete attribute",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"objectName\": \"Bashosen\",\r\n  \"description\": \"The hammer of Goku\",\r\n  \"microService\": \"vegetta\",\r\n  \"offlineAvailable\": false,\r\n  \"id\": \"E09t7hp\"\r\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/v2/business-template-builder/meta-objects/{{META_OBJECT_ID}}",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"v2",
+								"business-template-builder",
+								"meta-objects",
+								"{{META_OBJECT_ID}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

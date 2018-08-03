@@ -1,0 +1,7114 @@
+{
+  "forecasts": [
+    {
+      "id": "012f92a1-e46a-40fa-a184-d79c55e7d19a",
+      "draft": true,
+      "description": "Jaskolski - Hahn",
+      "validity": {
+        "from": "2017-09-30",
+        "until": null
+      },
+      "structure": 0
+    },
+    {
+      "id": "26c02e2d-24c8-4d47-a01a-27215cc0ce8c",
+      "draft": true,
+      "description": "McKenzie - Adams",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "09691df7-5fa7-45fb-8744-52cf9f363332",
+      "draft": false,
+      "description": "Walter - Abbott",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "67a1338d-a685-4803-9179-44c9a20b7b20",
+      "draft": false,
+      "description": "Schuppe Inc",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "ed0791b3-a490-47d3-8a85-e976bdc1bcc3"
+      }
+    },
+    {
+      "id": "1bac6342-c4ba-45af-bbc1-57c080560232",
+      "draft": false,
+      "description": "Marquardt Inc"
+    },
+    {
+      "id": "3479bace-dabf-4084-b926-1f9bba214496",
+      "draft": false,
+      "description": "Wisoky, Altenwerth and Toy",
+      "structure": {
+        "id": "3e01d2f7-d7af-43fd-8e75-fa1c4588f6d9"
+      }
+    },
+    {
+      "id": "1b307334-0234-4d33-b00c-0f825c520eca",
+      "draft": true,
+      "description": "Crooks, Hintz and Green"
+    },
+    {
+      "id": "a9503f17-ccc2-4eeb-a279-3f6eb411f13f",
+      "draft": false,
+      "description": "Considine LLC",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "b6248713-683d-410b-80ce-27b26ca02d74"
+      }
+    },
+    {
+      "id": "13370ad6-5da2-4451-81bf-8ec2a1226681",
+      "draft": true,
+      "description": "Trantow - Nienow"
+    },
+    {
+      "id": "ca1ea991-cd75-4564-b6fe-7f8c104bb2fb",
+      "draft": false,
+      "description": "Hauck, Moen and Dicki",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "9cb50ae3-4206-4eea-83f8-ede8af5a0b11",
+      "draft": true,
+      "description": "Hansen, Windler and Green",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "147a83b1-f4b6-4648-8b5d-36f9f8c88ad6",
+      "draft": true,
+      "description": "Windler - Bernhard",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "2162730f-ac89-46c0-bf77-d95f3d0f8948",
+      "draft": false,
+      "description": "Collins - Huel"
+    },
+    {
+      "id": "11c675f4-3788-473d-a618-b50753810989",
+      "draft": true,
+      "description": "Marks - Gislason"
+    },
+    {
+      "id": "eefdd6c0-2770-4c76-ba38-017fff754bc5",
+      "draft": true,
+      "description": "Langworth - Collier"
+    },
+    {
+      "id": "36aa130f-0d52-4cb7-a931-39eea1d173bc",
+      "draft": true,
+      "description": "Goodwin and Sons",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "b292467e-bcb5-415f-9015-300aa9a4a67e",
+      "draft": false,
+      "description": "Hackett - McDermott",
+      "structure": {
+        "id": "1da7ca62-6480-4065-acd9-9f00fa01335b"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "c559c554-39b5-490b-9821-70d77a40c9f3",
+      "draft": false,
+      "description": "Torp - Koch",
+      "structure": {
+        "id": "8eaa4d59-83a1-4972-84e4-f689ece04a1c"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "f01dc019-2340-47d6-85db-352f196d459b",
+      "draft": true,
+      "description": "White - Wiegand",
+      "structure": {
+        "id": "28cc5cc0-595d-41de-9d3d-29227d7bdaac"
+      }
+    },
+    {
+      "id": "2e186145-a2f2-4aff-ae2a-507be22c53b9",
+      "draft": false,
+      "description": "Funk - Robel",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "bce9638c-f43a-443c-b39d-1834fce70928"
+      }
+    },
+    {
+      "id": "7ae80409-bbf7-4058-9631-63d4eb7e42aa",
+      "draft": false,
+      "description": "Bashirian, Kuhic and Schimmel",
+      "structure": {
+        "id": "9a7b6bdb-ef83-4e2e-9d2e-f5277c6f9d2d"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "6fdc6f69-71fa-4c26-870e-2c4ae44b28a4",
+      "draft": true,
+      "description": "Abshire Inc"
+    },
+    {
+      "id": "0ae3c9be-a91d-452b-a4e9-bd660220380a",
+      "draft": false,
+      "description": "Klocko, Wilkinson and Orn",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "af34bf4c-ff9a-4803-82dc-dd0f2d8a4770"
+      }
+    },
+    {
+      "id": "e2256bf1-7516-40fa-8fc4-4352c5aee7d4",
+      "draft": true,
+      "description": "Balistreri, Hammes and Farrell",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "3f17493b-5f3f-4a2d-9a8f-41f4f39a44be",
+      "draft": false,
+      "description": "Reilly Group",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "3dcb1c5e-d250-405f-b965-d79e42710a9e",
+      "draft": false,
+      "description": "Stanton, Lemke and Dooley",
+      "structure": {
+        "id": "5a041f82-88b2-4d9b-9467-b0add302a193"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "aebf4b56-378e-42bb-8b5c-c749455ba2e2",
+      "draft": true,
+      "description": "Zboncak - Koch"
+    },
+    {
+      "id": "48730f0a-b920-4110-a4d4-34dbd5c1f0a8",
+      "draft": true,
+      "description": "Renner, Graham and Olson",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "6e43ed4d-e37e-4f02-98a4-74a8fde0fbdf"
+      }
+    },
+    {
+      "id": "5f5beab8-2964-4188-b223-d5ae6843e3b2",
+      "draft": true,
+      "description": "Sporer - Koch",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "645afe52-1c29-4ce6-8531-cd90db6c1e21"
+      }
+    },
+    {
+      "id": "f5763a92-3ffd-4f64-bac8-af5fa1a16081",
+      "draft": false,
+      "description": "Kunde, Koelpin and Kutch"
+    },
+    {
+      "id": "42951929-3afd-4024-a864-a5c6bb06705e",
+      "draft": false,
+      "description": "Williamson, Stanton and Kihn",
+      "structure": {
+        "id": "406cbbec-439f-44d0-a784-f6d9cfc0af23"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "18bfb4c0-6b48-4e81-90ab-4641258bf35b",
+      "draft": true,
+      "description": "Keebler LLC"
+    },
+    {
+      "id": "69e1b381-37fa-43a8-9a80-bcf0371763a2",
+      "draft": false,
+      "description": "Schaefer - Swaniawski"
+    },
+    {
+      "id": "2abc24ff-7dca-4358-855a-2e4f82623518",
+      "draft": false,
+      "description": "Kerluke - Grant"
+    },
+    {
+      "id": "b2f68e3d-776f-42db-8e8f-47c02ba2a40e",
+      "draft": true,
+      "description": "Wisozk, Grimes and McKenzie"
+    },
+    {
+      "id": "13b0021d-976d-455b-9df9-1aff22d1bc8f",
+      "draft": false,
+      "description": "Borer - Hackett"
+    },
+    {
+      "id": "90e94e02-19d5-477b-82aa-30f4e29abf17",
+      "draft": true,
+      "description": "Towne - Abshire"
+    },
+    {
+      "id": "b6871408-f3ad-4571-bd86-d258ecfb6738",
+      "draft": true,
+      "description": "O'Conner LLC",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "c0a1d568-0bc8-4ad4-bd76-4887f0d0aff2",
+      "draft": true,
+      "description": "Legros - Runolfsdottir"
+    },
+    {
+      "id": "503b5197-6868-4717-9b9f-42b7656f0099",
+      "draft": true,
+      "description": "Conn, Lindgren and Hagenes"
+    },
+    {
+      "id": "bd591647-92d6-4bcb-9c30-7faa6e0d4418",
+      "draft": false,
+      "description": "Grant Inc"
+    },
+    {
+      "id": "eee06a84-689b-43f4-b8cd-1ed920b426e4",
+      "draft": true,
+      "description": "Spencer, Oberbrunner and Durgan"
+    },
+    {
+      "id": "11294041-4daf-4876-af72-beaf2f331639",
+      "draft": true,
+      "description": "Parker, Batz and Lynch",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "877e2517-cdeb-4d65-a84a-47ff4a815ecf",
+      "draft": false,
+      "description": "Schmidt LLC"
+    },
+    {
+      "id": "6fb38e2e-6207-41ca-90c7-b664840dd00c",
+      "draft": false,
+      "description": "Labadie, Thompson and Baumbach"
+    },
+    {
+      "id": "c240cee0-820c-4bb2-ae83-093e64d56941",
+      "draft": false,
+      "description": "Hagenes, O'Reilly and Morissette"
+    },
+    {
+      "id": "891fa751-93c3-4efc-9d1e-0353c55ac687",
+      "draft": false,
+      "description": "Crist - Dare"
+    },
+    {
+      "id": "00cd21d0-95f7-4d20-b337-462647712377",
+      "draft": true,
+      "description": "Daniel - Smith",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "2901dae8-3fb5-4ea6-9cf0-cfc625fb448d"
+      }
+    },
+    {
+      "id": "bc40f9c0-1d47-4914-b28c-10758eaebdba",
+      "draft": true,
+      "description": "Streich Inc",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "09d040a6-8530-485e-b8a4-a8aeab736d73"
+      }
+    },
+    {
+      "id": "2546efcc-de0d-4ad9-afb9-6b3edce0d69b",
+      "draft": true,
+      "description": "Gottlieb, Kshlerin and Treutel",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "5ce1e50a-a475-469d-8e3f-70c057e32498",
+      "draft": false,
+      "description": "Moore - Gaylord",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "31a76a08-dbf7-4246-9216-3bd2a8fc876b",
+      "draft": true,
+      "description": "Crooks and Sons"
+    },
+    {
+      "id": "a276ba84-6fd8-49b7-8ca2-a83338f39393",
+      "draft": false,
+      "description": "Keeling Inc"
+    },
+    {
+      "id": "3342cce2-143c-401e-84d5-4a46a07e4472",
+      "draft": false,
+      "description": "Harvey Group"
+    },
+    {
+      "id": "6242c20a-53a9-4ab3-92e6-a6516f31355c",
+      "draft": true,
+      "description": "Olson, Hodkiewicz and Blick",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "2c86fef2-7025-4973-9e45-614e77f7b1a8",
+      "draft": true,
+      "description": "Durgan, Jacobs and Marvin"
+    },
+    {
+      "id": "0c90803b-6cf1-421a-b5e1-5a71c2545e2e",
+      "draft": true,
+      "description": "Dare, Botsford and Rosenbaum"
+    },
+    {
+      "id": "974354f9-9936-460e-9389-b844d4e016dc",
+      "draft": false,
+      "description": "Bosco, Hudson and Quigley",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "b5dc4dd8-dd5d-4cfd-ad16-e0b97230ff0a",
+      "draft": false,
+      "description": "Rodriguez - Mueller",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "6265fd5f-e077-4c54-85f5-e942f81a388a",
+      "draft": true,
+      "description": "Lemke Group",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "b897f707-310f-48ed-90c2-707a72767cfd",
+      "draft": false,
+      "description": "Wyman - Hansen",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "d2f6fa9f-c927-4b37-90d6-3b2472cebd3f"
+      }
+    },
+    {
+      "id": "a5f48074-3c55-489e-9bbc-42b46ef6af58",
+      "draft": false,
+      "description": "Kirlin and Sons",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "efae9878-7787-440b-9d82-f61748ef90d7",
+      "draft": true,
+      "description": "Grady - Wilkinson"
+    },
+    {
+      "id": "86622dc4-7cff-48e1-9037-cfb6b10139a0",
+      "draft": false,
+      "description": "Medhurst, Reinger and Morar",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "82926f30-aeec-4f1e-bc05-97d9cfbda8e1"
+      }
+    },
+    {
+      "id": "e78a8990-a25b-449c-b966-01a69752a8dc",
+      "draft": true,
+      "description": "Zemlak - Deckow"
+    },
+    {
+      "id": "2c45a43a-2199-47f0-bc7f-7eb3403a0dcd",
+      "draft": true,
+      "description": "Conroy, Larson and Terry",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "05085356-647a-4971-8502-876ee3e2c32f",
+      "draft": true,
+      "description": "Cassin - Pouros",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "05c88b69-f15f-43fc-b459-b8acbebb7e61",
+      "draft": false,
+      "description": "Leuschke LLC"
+    },
+    {
+      "id": "f4881027-325a-455e-aaf8-537e8d1c9e69",
+      "draft": true,
+      "description": "Goodwin, Daugherty and Bauch"
+    },
+    {
+      "id": "3bae23f0-cb8b-4f22-8d3e-efd7b581ecd6",
+      "draft": true,
+      "description": "Langosh - Kulas",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "f077f628-10b0-43fc-9c9c-da38f7190b37",
+      "draft": true,
+      "description": "Prosacco, Stanton and Friesen"
+    },
+    {
+      "id": "6ee0b43a-baf5-4d67-99d6-c99821d50cc8",
+      "draft": true,
+      "description": "Leuschke and Sons",
+      "structure": {
+        "id": "80c12cdc-cec2-455c-9582-08e00e96f038"
+      }
+    },
+    {
+      "id": "0bc2643c-1245-453f-bed2-e08cd157790a",
+      "draft": true,
+      "description": "Barrows Group",
+      "structure": {
+        "id": "48d661f2-6ccd-4356-a361-64a8add69a80"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "d0e7b814-2d19-4f6c-8a30-435ebfeff3d1",
+      "draft": false,
+      "description": "Thiel - Larson",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "952b8c9e-2c22-4cc4-8106-29e361095f29",
+      "draft": false,
+      "description": "Feest Group",
+      "structure": {
+        "id": "2ebb9af9-e807-4410-80b4-a9f27e2fa8e8"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "3a320b17-c5c7-4427-825b-0507ec3692a1",
+      "draft": true,
+      "description": "Rice - Runolfsdottir"
+    },
+    {
+      "id": "c765c098-7dc8-4601-a48b-7bcdd3c30248",
+      "draft": true,
+      "description": "Reichel, Gulgowski and Fay"
+    },
+    {
+      "id": "486eb467-0853-4069-ad97-473b63088f41",
+      "draft": false,
+      "description": "Orn - Cole",
+      "structure": {
+        "id": "1334d2a7-7240-48bb-bb0c-f0f8d2dc7f00"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "71a4d9bc-5704-4278-93ad-ac001d040038",
+      "draft": false,
+      "description": "Durgan Inc"
+    },
+    {
+      "id": "1e5887f0-8344-4958-9efb-d0805900a415",
+      "draft": false,
+      "description": "Padberg LLC"
+    },
+    {
+      "id": "c5a5fd5c-e33d-47ba-8172-4d57f885ec7e",
+      "draft": true,
+      "description": "Yost Group",
+      "structure": {
+        "id": "6f8391ae-4cf6-4b1f-9496-53a49a5611ee"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "3b76cad8-919b-4e10-b24a-411c28aade7e",
+      "draft": true,
+      "description": "Skiles, Bosco and Zulauf",
+      "structure": {
+        "id": "9a41f9ca-6f75-43ef-a2ed-1b0243201192"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "adaa6e17-7b4e-4f34-b348-928367aaba57",
+      "draft": true,
+      "description": "Pouros - Torphy",
+      "structure": {
+        "id": "527a8bf9-395b-4611-b393-096f0d96e7b3"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "942d40c4-ce2f-4426-9534-4e9286819af8",
+      "draft": false,
+      "description": "Miller Group"
+    },
+    {
+      "id": "47e0ff70-50f6-4763-9917-f7abdf51d896",
+      "draft": true,
+      "description": "Zboncak, Bartell and Bogisich",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "fe89db53-f30d-4577-85d9-1b274bd00140",
+      "draft": true,
+      "description": "Denesik Group",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "55b430ba-c1fa-480d-a4c5-69c52f99ef9c"
+      }
+    },
+    {
+      "id": "d5e7a873-9da0-47cf-adad-d4b50564c91b",
+      "draft": true,
+      "description": "Stamm and Sons",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "e560675b-bd5b-4ab7-bbbe-f1ca54ee6594"
+      }
+    },
+    {
+      "id": "420e610b-fc67-471c-839e-a432533bbffa",
+      "draft": false,
+      "description": "Bednar, Goldner and Turcotte"
+    },
+    {
+      "id": "4bcd922b-6aaf-43ed-9104-cf1c1460d676",
+      "draft": false,
+      "description": "Schoen - Welch",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "295b01c5-0e59-4430-8e8a-788594ce99f3",
+      "draft": false,
+      "description": "Paucek - Emard",
+      "structure": {
+        "id": "40a26a66-dd32-48d2-9d5c-2a43be401b7b"
+      }
+    },
+    {
+      "id": "23860ef5-719c-4f58-a1f3-314d94bbddc5",
+      "draft": false,
+      "description": "Bashirian, Lemke and Swaniawski",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "75ab6098-3424-4315-be40-a4143d6486ad"
+      }
+    },
+    {
+      "id": "04467fa2-dce3-4499-9072-cd155ba6783e",
+      "draft": true,
+      "description": "Marvin LLC",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "8e989dc0-6d99-42aa-b11b-49d9d77dd2de"
+      }
+    },
+    {
+      "id": "cec6f607-84b3-4faa-833e-4e89cb928a59",
+      "draft": true,
+      "description": "Halvorson and Sons",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "b6f73f49-2c33-4b3a-a3f1-91ab7e34d2e0",
+      "draft": false,
+      "description": "Beahan, Stracke and Nicolas",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      },
+      "structure": {
+        "id": "de3bb7ac-d755-4267-8341-64f6db07c631"
+      }
+    },
+    {
+      "id": "dd2a9852-eb93-4124-b319-fa3da2e08949",
+      "draft": true,
+      "description": "Schultz and Sons",
+      "structure": {
+        "id": "2e7f561a-d572-46b2-bff8-55f57b029341"
+      },
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "2f15bb55-0c37-4e84-84de-cd635c9695ad",
+      "draft": true,
+      "description": "Osinski, Berge and Rice",
+      "structure": {
+        "id": "1e6456f4-ab90-4837-a30b-869ecb73ea99"
+      }
+    },
+    {
+      "id": "c3908314-d50a-45b6-98a3-b1b8220d9df9",
+      "draft": true,
+      "description": "Beier and Sons",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "4b041b66-767c-4430-953b-75f94fc82ef8",
+      "draft": true,
+      "description": "Jacobson, Barrows and Schinner",
+      "validity": {
+        "from": "2017-09-31",
+        "until": "2017-09-31"
+      }
+    },
+    {
+      "id": "5dcad298-4f02-4844-a2f0-d8627f3940cb",
+      "draft": true,
+      "description": "Lockman - Ferry"
+    },
+    {
+      "id": "ced4880a-e95b-457e-a83f-30c8da809724",
+      "draft": true,
+      "description": "Streich - Hilpert",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "4876dc61-9cbd-4552-b408-b61a6b10fec3",
+      "draft": false,
+      "description": "Kutch Inc"
+    },
+    {
+      "id": "51f320f6-1e0f-4404-ad14-f4cd320577a2",
+      "draft": true,
+      "description": "Kozey, Howe and Moore",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "0f1a3caf-9d38-4def-af59-3a6c40543e10"
+      }
+    },
+    {
+      "id": "4c919936-85cc-4bce-baec-875348d7fbd0",
+      "draft": false,
+      "description": "Kling Group",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "bf0fd0c9-04d9-4b94-9d19-11ca0ac09f22"
+      }
+    },
+    {
+      "id": "c2624dd9-7790-4431-aec5-0dbf37f2cc30",
+      "draft": false,
+      "description": "Frami - D'Amore",
+      "structure": {
+        "id": "167c9e56-3eb5-430b-9b87-909215e75852"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "2068d87b-8a80-4ba1-91cc-a83af5447c3b",
+      "draft": false,
+      "description": "Volkman - Hilll"
+    },
+    {
+      "id": "d019003a-1967-41c9-a37d-e6812859b9b0",
+      "draft": true,
+      "description": "Wehner, Fay and Cremin"
+    },
+    {
+      "id": "944ce04d-12c6-46d8-8f3b-5e058bfffa09",
+      "draft": false,
+      "description": "Feeney Inc",
+      "structure": {
+        "id": "715f73fd-08ff-45e8-921c-a47ade8c9b1d"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "a9b4eb99-8a69-47c6-b4ab-f36fd868743a",
+      "draft": false,
+      "description": "Brakus Group",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "e593108f-c1d7-4ddd-91a5-d631cf8bb50a"
+      }
+    },
+    {
+      "id": "8cd28c02-4de6-48e2-a022-ca5b6fd9b58f",
+      "draft": false,
+      "description": "McGlynn, Cormier and Langosh",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "747c2b49-235b-46b0-9e87-708de1ff538d",
+      "draft": true,
+      "description": "Gottlieb LLC",
+      "structure": {
+        "id": "4ac42ff1-5580-4552-9f84-245a84834da3"
+      }
+    },
+    {
+      "id": "48450dff-200a-4cfa-beb2-bf5e6879b836",
+      "draft": false,
+      "description": "Dibbert - Koss",
+      "structure": {
+        "id": "104382df-00a2-462a-8f7f-1d9e277c7655"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "eb83cc9e-e4a8-439e-aef8-0743d0f391b9",
+      "draft": false,
+      "description": "Dickinson and Sons",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "203aa2ae-6176-449b-876b-bb94f9c26f17"
+      }
+    },
+    {
+      "id": "2ef11d4f-20a5-4bcb-ab51-4b8a6aa82436",
+      "draft": true,
+      "description": "Thiel, Stehr and Will",
+      "structure": {
+        "id": "45062bbc-34eb-4e7a-8a12-ecb515ceb832"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "0ee652c6-4557-46e1-990f-6743b5b3e767",
+      "draft": true,
+      "description": "Prosacco - MacGyver",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "9cab7465-da9b-42a5-beeb-4ddd9bf536c2"
+      }
+    },
+    {
+      "id": "8c0b9751-030a-4e75-84c3-4e2c1f3c9bc2",
+      "draft": true,
+      "description": "Ruecker, Stokes and Block",
+      "structure": {
+        "id": "7afe4425-822c-473c-b29c-4c1698a74c99"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "853d74a5-033c-4cfc-be62-bfa566320f4a",
+      "draft": false,
+      "description": "Spencer LLC"
+    },
+    {
+      "id": "7094d282-209c-4857-ab70-ee1ef28d0f7a",
+      "draft": true,
+      "description": "Gutkowski, Jerde and Ortiz",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "22e66bf4-3383-4475-9672-b7ba1fb9e823",
+      "draft": true,
+      "description": "Hane LLC",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "2d13e97a-f6a2-4a7d-80c7-cdb378e5d13d"
+      }
+    },
+    {
+      "id": "0dcb7d85-cf59-4038-ad1a-6830435b27ca",
+      "draft": false,
+      "description": "Gleichner, Langworth and Wilkinson",
+      "structure": {
+        "id": "e5c1556b-6eba-4f15-81cc-b9cb754afeda"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "3685d725-beaa-4e2a-aaf7-872cc2809254",
+      "draft": true,
+      "description": "White and Sons",
+      "structure": {
+        "id": "5a2a5936-9993-4aaf-8e6c-47a3516fcbbf"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "78b59a7d-1596-4b1f-b823-ac967f538c83",
+      "draft": true,
+      "description": "Brown, Barrows and Spencer"
+    },
+    {
+      "id": "2aa9c83d-5f05-4fb8-8b62-b746165bc594",
+      "draft": true,
+      "description": "McDermott, Cormier and Weissnat"
+    },
+    {
+      "id": "e321a1c0-274a-4ea7-a47b-d9c3de374a64",
+      "draft": false,
+      "description": "Strosin, Smith and Barrows"
+    },
+    {
+      "id": "247bc21b-3458-4531-9f46-83c0cbcd5271",
+      "draft": false,
+      "description": "Koss - Schroeder"
+    },
+    {
+      "id": "75d0317e-0552-4309-81bf-b6ef0b36c1c5",
+      "draft": true,
+      "description": "Greenfelder, Halvorson and Adams"
+    },
+    {
+      "id": "0c02a579-74ff-46ac-9660-07d9bbd0f38b",
+      "draft": false,
+      "description": "McLaughlin - Jerde",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "e145b333-3789-4f2b-b78d-0af8d88bc3e0",
+      "draft": false,
+      "description": "Botsford and Sons"
+    },
+    {
+      "id": "62dfccaa-9a87-42e6-a9fb-cad0f5596b36",
+      "draft": true,
+      "description": "Lakin, Kuhlman and Doyle",
+      "structure": {
+        "id": "0e63abb3-70b3-44f1-b57c-bb9b3a20c899"
+      }
+    },
+    {
+      "id": "b9c0c347-042b-4fed-b6b6-30629223d2c7",
+      "draft": false,
+      "description": "Metz LLC"
+    },
+    {
+      "id": "1d1a26eb-8e55-4914-948e-e8f06d5bac6c",
+      "draft": true,
+      "description": "Gottlieb - Runolfsson",
+      "structure": {
+        "id": "f9d89b33-80aa-468b-80e2-653f0dcfa481"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "2217d9e9-052e-402e-a420-add83a5e3e00",
+      "draft": false,
+      "description": "Berge - Stark",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      },
+      "structure": {
+        "id": "09b76109-064d-4e4c-b964-67408d2b7e01"
+      }
+    },
+    {
+      "id": "6508a444-5f22-455c-8cba-4ffaef30c4be",
+      "draft": true,
+      "description": "Mills and Sons",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "946f9f69-deb8-4eb8-bfc4-85c1e9080cba",
+      "draft": false,
+      "description": "Denesik Group",
+      "structure": {
+        "id": "5c139b57-1186-4bdb-8e9a-6b054be01a4d"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "id": "55f1f2c7-ee6a-410e-8888-2b16498d2aa4",
+      "draft": true,
+      "description": "Johnson - Dickens",
+      "structure": {
+        "id": "96b5af22-f97e-46c8-a067-a91e41368336"
+      }
+    },
+    {
+      "id": "c1fd5c24-b541-4e6b-ac91-7c52339738a9",
+      "draft": true,
+      "description": "Bayer, Langworth and Lueilwitz"
+    },
+    {
+      "id": "584d34c9-bce1-4fa4-8437-e3006f0e6c88",
+      "draft": false,
+      "description": "Huels, Jacobi and Vandervort"
+    },
+    {
+      "id": "dc441594-daea-4db4-8a99-8c44ce682c19",
+      "draft": false,
+      "description": "Dooley, Will and Beatty"
+    },
+    {
+      "id": "b8fdef40-6a56-48a8-b3e9-b6b7a0514f1c",
+      "draft": false,
+      "description": "Borer, Barrows and Block",
+      "structure": {
+        "id": "986de853-6040-497f-9891-af2dc8357cc7"
+      }
+    },
+    {
+      "id": "cd3cfc50-1356-4cbf-83f0-14da7a58a2a2",
+      "draft": true,
+      "description": "Hane and Sons"
+    },
+    {
+      "id": "885d4197-cc97-4085-8482-2a3ed8ac466c",
+      "draft": true,
+      "description": "Hagenes - Collier",
+      "structure": {
+        "id": "3ef07858-b083-47d5-b231-a17a515d6bb3"
+      }
+    },
+    {
+      "id": "c6d960a8-0a02-4ec5-9f6a-7d825e57c1a5",
+      "draft": false,
+      "description": "Bins - Bernhard",
+      "structure": {
+        "id": "e58107ea-2657-4df2-bbb7-4552b36cc366"
+      },
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-09-18"
+      }
+    },
+    {
+      "draft": false,
+      "description": "TESTE POST JSON-SCHEMA-FAKER 2",
+      "id": "H1GCy9T9Z"
+    },
+    {
+      "draft": false,
+      "description": "TESTE POST JSON-SCHEMA-FAKER 2",
+      "id": "B1v1l5pqW"
+    },
+    {
+      "id": "H1zneqa9b",
+      "draft": null,
+      "description": "Senger lindao",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-08-27"
+      },
+      "structure": 0
+    },
+    {
+      "id": "rkGhc9T5-",
+      "draft": null,
+      "description": "testeeeeee",
+      "validity": {
+        "from": "2017-09-18",
+        "until": "2017-10-05"
+      },
+      "structure": {}
+    },
+    {
+      "id": "a4a12d30-9a34-4f46-8a76-ecb055054add",
+      "draft": true,
+      "validity": {
+        "from": "2017-10-04",
+        "until": "2017-10-07"
+      },
+      "structure": {
+        "id": "f09a55b6-88cc-4d41-9f0a-a227d4dc8111"
+      }
+    },
+    {
+      "id": "BkRaH9UiW"
+    },
+    {
+      "generalSearch": "Shields",
+      "id": "S1tos3Is-"
+    },
+    {
+      "draft": "true",
+      "description": "{{forecastName}}",
+      "id": "H1UH57Oob"
+    },
+    {
+      "description": "{{forecastName}}",
+      "id": "HJGzAXOiZ"
+    },
+    {
+      "description": "{{forecastName}}",
+      "id": "Sk86RmujZ"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTION98g1bsgbz8vo6kmxwdn29",
+      "id": "SkGfkNdi-"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-19",
+        "until": "2017-09-21"
+      },
+      "id": "Byc6kV_s-"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "id": "BkPUe4Oib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "B152MEdj-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "BJ4E7Eus-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "SkMFQNdiW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "S1R2mVOob"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "S16lENdiW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "S1a7VE_ib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "BJbS44_iW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "HJK5EE_ib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "Sk-mBEOoZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "Hy1DHEdoW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgyitk91e4t0glint57b9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "r14PBEOsb"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONlqnagnuqhvn97kz30izfr",
+      "id": "ryZdSV_sW"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONxk5pcao29lu9faud6lxr",
+      "id": "ByctBVujW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYuseo563h3ojgjdlhaor",
+      "id": "r1fLLEOjb"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYvqgavkd9b20nslzbyb9",
+      "id": "BJ5ILNuib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYv7cw7hebn721tr442t9",
+      "id": "rkVyt4usW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITY1t06rfqlxq05ip9nc23xr",
+      "id": "HyPgF4di-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYnwdandikwzqyysw0zfr",
+      "id": "S1N-FVds-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYorr7ycztis9niqdoyldi",
+      "id": "BJQztEdsb"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTION1jmiv59ynwrhavovquxr",
+      "id": "BJuGYEOsZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTION1jmiv59ynwrhavovquxr",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "Bk3MtNOsb"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTION1jmiv59ynwrhavovquxr",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "SJBEKVOoW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYdg93iryfhj1s4fbw3ik9",
+      "id": "B1nNFEujW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYczkh2tsun1ykdjqncdi",
+      "id": "BkGwYN_iW"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTION7o5jip18k7485bzz1tt9",
+      "id": "rySDtNOob"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTION7o5jip18k7485bzz1tt9",
+      "validity": {
+        "from": "2017-09-20",
+        "until": "2017-09-19"
+      },
+      "id": "HkPwFVuoW"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-19",
+        "until": "2017-09-21"
+      },
+      "id": "r1jwF4ds-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTION7o5jip18k7485bzz1tt9",
+      "validity": {
+        "until": "2017-09-21"
+      },
+      "id": "S1edtNdsZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITY8jbn7knuynkuz048cl3di",
+      "id": "BJJ82mKsb"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "id": "B138nmYoW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "from": "{{today}}",
+        "until": "{{yesterday}}"
+      },
+      "id": "HJNw2mKsb"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "ryOd3QKjZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "S1Pg6Xtob"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "Bkw-TmKj-"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "ryyG6QKib"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "rJ2ET7tsW"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "SywwT7to-"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "HyeYa7Fi-"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "SJ-iTXFsZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "until": "2017-09-28"
+      },
+      "id": "S13ck4Fib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "until": "2017-09-28",
+        "from": "2017-09-27"
+      },
+      "id": "Hk-CJ4Yj-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONhj7icylcl9av5vrvygb9",
+      "validity": {
+        "from": "2017-09-27"
+      },
+      "id": "rJrZl4Ys-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITY99acbkvqaev75ijm7vi",
+      "id": "SJNzxNKjW"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONgu4rxgrv49y6tz55ewmi",
+      "id": "ry_fgVFsb"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgu4rxgrv49y6tz55ewmi",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "S1nfeNYiZ"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "BJ17x4tjW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgu4rxgrv49y6tz55ewmi",
+      "validity": {
+        "until": "2017-09-28",
+        "from": "2017-09-27"
+      },
+      "id": "HyGXg4Yob"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONgu4rxgrv49y6tz55ewmi",
+      "validity": {
+        "from": "2017-09-27"
+      },
+      "id": "Hkh7gEYoW"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYwmzte80vq37ss2f8yqfr",
+      "id": "B10Be4FjZ"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONpvh3nlupao6605b5d0a4i",
+      "id": "BJl0rxNKo-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONpvh3nlupao6605b5d0a4i",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "rJbCBlEYjb"
+    },
+    {
+      "draft": "true",
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "SyfAreNKib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONpvh3nlupao6605b5d0a4i",
+      "validity": {
+        "until": "2017-09-28",
+        "from": "2017-09-27"
+      },
+      "id": "H1mArx4Yi-"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT DRAFT OPTIONpvh3nlupao6605b5d0a4i",
+      "validity": {
+        "from": "2017-09-27"
+      },
+      "id": "SkJUlEKoZ"
+    },
+    {
+      "id": "rJ7zbVKiW",
+      "draft": null,
+      "description": "",
+      "validity": {
+        "from": null,
+        "until": null
+      },
+      "structure": {}
+    },
+    {
+      "id": "ByxmWVKsb",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Syf7ZVKsW",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BkeMQWEtjW",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "B1ZfQb4FoZ",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rJX7ZEYiW",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Bke7Qb4Ks-",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HJddWNtob",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-10-07"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rkYOWEtoW",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-10-07"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HklKO-4YjZ",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-10-07"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1WFd-VKib",
+      "draft": null,
+      "description": "kljj",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-10-07"
+      },
+      "structure": {}
+    },
+    {
+      "draft": "false",
+      "description": "FORECAST WITHOUT STRUCTUREmu9xmafdj933sxtro1or",
+      "id": "B1eQtNKsb"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITHOUT STRUCTUREsehuzfz97cbxkwqaor",
+      "id": "SkU8KNYs-"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITHOUT STRUCTUREklrjzfuimf9pb4706bt9",
+      "id": "By1dYNYib"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYc5lzoexei4xmeu3di",
+      "id": "H1IqY4toZ"
+    },
+    {
+      "draft": "true",
+      "description": "FORECAST WITHOUT VALIDITYkrpz5qcrb7mje3mu0udi",
+      "id": "SJZCKVFsW"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITHOUT STRUCTURE90hdb399jp7uhfbc5wmi",
+      "id": "r1BAt4Yi-"
+    },
+    {
+      "id": "ryrc9Etj-",
+      "draft": null,
+      "description": "dsadsa",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-19"
+      },
+      "structure": {}
+    },
+    {
+      "id": "S1yT9Vto-",
+      "draft": null,
+      "description": "fdsfds",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-19"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HJUp5Ntj-",
+      "draft": null,
+      "description": "fdsfds",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-19"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HycBs4Kj-",
+      "draft": true,
+      "description": "sadsad",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-22"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1I_iVFs-",
+      "draft": true,
+      "description": "sadsad",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-22"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rkVk2NKj-",
+      "draft": true,
+      "description": "gfgd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-21"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HJq1hEYjb",
+      "draft": true,
+      "description": "gfgd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-21"
+      },
+      "structure": {}
+    },
+    {
+      "id": "B18NnNYi-",
+      "draft": true,
+      "description": "fdsfs",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-12"
+      },
+      "structure": {}
+    },
+    {
+      "id": "B1YH2VKob",
+      "draft": true,
+      "description": "fdsfs",
+      "validity": {
+        "from": "2017-09-07",
+        "until": "2017-09-12"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rJBv2NKs-",
+      "draft": true,
+      "description": "hghghggf",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITH STRUCTUREt247qfu8v93zi860qkt9",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "ryvukrKib"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITH STRUCTUREwsnyikcb69u5ww3zncdi",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "H1p6JBKo-"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITH STRUCTURE0gpcs40cs4y9rdtmlsor",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "HytWgrtsb"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITH STRUCTUREb4fw36kfcnna8cgtlnmi",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "fd1a13e8-90ca-4e22-9f2e-264d022e441c"
+      },
+      "id": "r1fQerYib"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTURE413xlw1vas6h435cow29",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "361e707d-8802-4217-bc11-3f2c5b68dd63"
+      },
+      "id": "B1dmlBFi-"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTURExewuryklg4i28ho20529",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "81db4828-4056-42de-a1ed-597a803edd4c"
+      },
+      "id": "SkhqxSYs-"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT VALIDITYzvog4g87sn4532bl9dx6r",
+      "id": "HydptLKsZ"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTION3o64as780gqxctc2chaor",
+      "id": "HkyAF8YsW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTION3o64as780gqxctc2chaor",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "id": "B1GRtIKsW"
+    },
+    {
+      "draft": true,
+      "validity": {
+        "from": "2017-09-26",
+        "until": "2017-09-28"
+      },
+      "id": "rJPAYIFo-"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTION3o64as780gqxctc2chaor",
+      "validity": {
+        "until": "2017-09-28",
+        "from": "2017-09-27"
+      },
+      "id": "r1o0YIFoW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTION3o64as780gqxctc2chaor",
+      "validity": {
+        "from": "2017-09-27"
+      },
+      "id": "B1yHqLtjZ"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITHOUT STRUCTUREmo5udwoi605rimj84zpvi",
+      "id": "HkIHcLYoZ"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTUREb76h0jua0bi444ewxw29",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "2158c580-a48e-41e9-985d-fcff1594c166"
+      },
+      "id": "rJz85LKsW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTUREfrtxmk2oihyfx813gzaor",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "79345a38-d846-4e3f-a45f-ddd6f1a87627"
+      },
+      "id": "Bkbp58KsW"
+    },
+    {
+      "id": "BJKARIYsZ",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Sk9C0LFob",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "ryl9RRItsb",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BJ-9C08FoZ",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BkiCRIKiZ",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BkljCCLFoZ",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HyZoRRIFs-",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "SyziCALYiW",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Bk7sRRIFoZ",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BynRCUYob",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rklnRAIto-",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "ryb2AALKoW",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BJzn0R8to-",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "H173CRLKjW",
+      "draft": true,
+      "description": "iygig",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-25"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rkBeyvYo-",
+      "draft": true,
+      "description": "",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "HJiekDtib",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1lWywtj-",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "BkWZyvKiW",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "B1gbWkDti-",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1bWbyvFiZ",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1G--JwFiZ",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rk7Z-kDFob",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "id": "ryzZkvKjW",
+      "draft": true,
+      "description": "asdasd",
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-26"
+      },
+      "structure": {}
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT VALIDITYj8zlmsatmmoiuc2qpvi",
+      "id": "rkOX8u5i-"
+    },
+    {
+      "description": "FORECAST WITHOUT DRAFT OPTIONnf1sm09mnxw4upeklnmi",
+      "id": "ryCmLOci-"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTIONnf1sm09mnxw4upeklnmi",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-27"
+      },
+      "id": "BkQVI_9jZ"
+    },
+    {
+      "draft": true,
+      "validity": {
+        "from": "2017-09-27",
+        "until": "2017-09-29"
+      },
+      "id": "BJP4LuqjW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTIONnf1sm09mnxw4upeklnmi",
+      "validity": {
+        "until": "2017-09-29",
+        "from": "2017-09-28"
+      },
+      "id": "rknV8_ciW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT DRAFT OPTIONnf1sm09mnxw4upeklnmi",
+      "validity": {
+        "from": "2017-09-28"
+      },
+      "id": "HkuHI_5sW"
+    },
+    {
+      "draft": false,
+      "description": "FORECAST WITHOUT STRUCTURE958wc3nw6poul2ua0pb9",
+      "id": "SySLL_cj-"
+    },
+    {
+      "description": "Valor",
+      "editable": false,
+      "type": {
+        "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+        "description": "currency"
+      },
+      "format": {
+        "id": "4afb268b-6bc6-4a54-8d81-019dd67bee70",
+        "name": "US DOLLAR",
+        "thousandSeparator": ".",
+        "decimalSeparator": ",",
+        "decimalDigits": 2,
+        "symbol": "U$",
+        "position": "left"
+      },
+      "id": "HJsIUuqjb"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTURE3icmbubf464syct8olxr",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          },
+          {
+            "id": "4d61c1ee-6ee9-4dad-b494-9e47a62551d7",
+            "order": "2",
+            "editable": true
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "SyZjw_9j-"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTUREwl8dhbeftb5xd3voyldi",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "Sk8nPucjZ"
+    },
+    {
+      "id": "HkVCuO9jb",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1LAOu5jW",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "B1lUCuucj-",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Hk-I0OOcjW",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "rJwRu_qsZ",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "ryxDC__qj-",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1Zw0uO9s-",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Byzv0dd5j-",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "r1_Cudco-",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Hyl_ROO9oZ",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "By6eF_coZ",
+      "draft": true,
+      "description": "fdsfdsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "id": "Hk0wFO9oW",
+      "draft": true,
+      "description": "fdsfsf",
+      "validity": {
+        "from": "2017-09-28",
+        "until": null
+      },
+      "structure": {}
+    },
+    {
+      "id": "H1hut_qiW",
+      "draft": true,
+      "description": "fdsfds",
+      "validity": {
+        "from": "2017-09-28",
+        "until": "2017-09-18"
+      },
+      "structure": {}
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTUREk0riu3kofr3pjtm4pldi",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "By88sdqsb"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTURE3icmbubf464syct8olxr",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          },
+          {
+            "id": "9af21877-a01f-414c-8add-5c491ac98d4c",
+            "order": "2",
+            "description": "New Measure 901",
+            "editable": true
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "f5d8bdfc-90dc-4408-a1e5-72ef9bdc58d1"
+      },
+      "id": "HkKxyYcsW"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITHOUT VALIDITY3akevaar66los8ht1emi",
+      "id": "Sk2q0ehjZ"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTURE6ciwy392mkq6zj6vfgvi",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        },
+        "id": "ffed1c5c-9fed-441b-b02c-6f8ca36e10b9"
+      },
+      "id": "Syjyab2ib"
+    },
+    {
+      "draft": true,
+      "description": "FORECAST WITH STRUCTUREt4e01uveeoab7lt5u3di",
+      "structure": {
+        "fixedDimensions": false,
+        "fixedMeasures": false,
+        "measures": [
+          {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f",
+            "order": "0",
+            "description": "Slovakia",
+            "editable": false,
+            "dataType": {
+              "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+              "description": "currency"
+            }
+          },
+          {
+            "id": "4553f653-588c-4d06-aef3-0db322364833",
+            "order": "1",
+            "description": "Holy See",
+            "editable": true,
+            "dataType": {},
+            "format": {}
+          }
+        ],
+        "dimensions": {
+          "id": "0",
+          "dataset": {
+            "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+            "alias": "Filial"
+          },
+          "child": {
+            "id": "1",
+            "dataset": {
+              "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+              "alias": "Profissional"
+            },
+            "child": {
+              "id": "2",
+              "dataset": {
+                "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+                "alias": "Cliente"
+              },
+              "child": {
+                "id": "3",
+                "dataset": {
+                  "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+                  "alias": "Produto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "BJubp-hj-"
+    }
+  ],
+  "tree": [
+    {
+      "node": {
+        "id": "87661d07-a952-450b-8b6f-6e02cd05260c"
+      },
+      "measureValues": [
+        {
+          "measure": {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+          },
+          "content": 116.75
+        },
+        {
+          "measure": {
+            "id": "4553f653-588c-4d06-aef3-0db322364833"
+          },
+          "content": 97.05
+        }
+      ],
+      "dimensionData": {
+        "id": "0"
+      },
+      "children": [
+        {
+          "node": {
+            "id": "c486420a-44f6-4afc-9d23-771263e2cb01"
+          },
+          "measureValues": [
+            {
+              "measure": {
+                "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+              },
+              "content": 187.13
+            },
+            {
+              "measure": {
+                "id": "4553f653-588c-4d06-aef3-0db322364833"
+              },
+              "content": 805.66
+            }
+          ],
+          "dimensionData": {
+            "id": "1"
+          },
+          "children": [
+            {
+              "node": {
+                "id": "50370f39-c461-4af8-8b5e-5ef5339917ed"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 814.25
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 397.04
+                }
+              ],
+              "dimensionData": {
+                "id": "2"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 150.32
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 322.26
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "3"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "id": "f3a01994-83a5-4f21-a380-716a9a43221f"
+          },
+          "measureValues": [
+            {
+              "measure": {
+                "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+              },
+              "content": 187.65
+            },
+            {
+              "measure": {
+                "id": "4553f653-588c-4d06-aef3-0db322364833"
+              },
+              "content": 309.2
+            }
+          ],
+          "dimensionData": {
+            "id": "5"
+          },
+          "children": [
+            {
+              "node": {
+                "id": "c5a9adc8-eb3a-43eb-a524-dde911d49533"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 511.56
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 204.8
+                }
+              ],
+              "dimensionData": {
+                "id": "6"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 948.08
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 321.95
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "7"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "id": "0a4127bf-cf00-4c3c-974d-13d2200e6511"
+      },
+      "measureValues": [
+        {
+          "measure": {
+            "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+          },
+          "content": 405.34
+        },
+        {
+          "measure": {
+            "id": "4553f653-588c-4d06-aef3-0db322364833"
+          },
+          "content": 344.64
+        }
+      ],
+      "dimensionData": {
+        "id": "4"
+      },
+      "children": [
+        {
+          "node": {
+            "id": "f1ad855b-4564-4265-802b-c3ba5ab65ac5"
+          },
+          "measureValues": [
+            {
+              "measure": {
+                "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+              },
+              "content": 518.48
+            },
+            {
+              "measure": {
+                "id": "4553f653-588c-4d06-aef3-0db322364833"
+              },
+              "content": 742.92
+            }
+          ],
+          "dimensionData": {
+            "id": "1"
+          },
+          "children": [
+            {
+              "node": {
+                "id": "f4aa5f45-9cb2-43c8-b1e7-1e06c63a4742"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 575.46
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 139.76
+                }
+              ],
+              "dimensionData": {
+                "id": "2"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "c25e711b-3375-4816-8aa8-7a179c0f55ca"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 656.7
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 322.16
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "3"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "id": "fc31d4cf-9dbf-4b04-955e-4b20f4718165"
+          },
+          "measureValues": [
+            {
+              "measure": {
+                "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+              },
+              "content": 462.67
+            },
+            {
+              "measure": {
+                "id": "4553f653-588c-4d06-aef3-0db322364833"
+              },
+              "content": 994.82
+            }
+          ],
+          "dimensionData": {
+            "id": "5"
+          },
+          "children": [
+            {
+              "node": {
+                "id": "422560e8-89e3-4356-be70-8884199b47ba"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 159.11
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 265.84
+                }
+              ],
+              "dimensionData": {
+                "id": "6"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 349.57
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 40.01
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "7"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "id": "2927cc7b-f645-438d-b298-cd18072c21a4"
+          },
+          "measureValues": [
+            {
+              "measure": {
+                "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+              },
+              "content": 840.84
+            },
+            {
+              "measure": {
+                "id": "4553f653-588c-4d06-aef3-0db322364833"
+              },
+              "content": 590.74
+            }
+          ],
+          "dimensionData": {
+            "id": "8"
+          },
+          "children": [
+            {
+              "node": {
+                "id": "e77c1e35-878e-4ab8-9518-309e091078ce"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 235.85
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 42.96
+                }
+              ],
+              "dimensionData": {
+                "id": "2"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 516.18
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 667.26
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "3"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "4c373d36-216c-40d1-8e5a-0fe423d6758a"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 653.44
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 681.31
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "7"
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "id": "10198db0-5356-4342-bba7-4b9e64a7a8f0"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 535.35
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 788.98
+                }
+              ],
+              "dimensionData": {
+                "id": "6"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "181f60bf-7bff-4fbf-a73d-5b105432be0a"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 491.73
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 945.82
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "3"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "0667c09f-ace4-4d7e-b017-bfd6f823286c"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 182.91
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 240.23
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "7"
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "id": "2648dc79-487b-4e9a-af5a-02180d34386b"
+              },
+              "measureValues": [
+                {
+                  "measure": {
+                    "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                  },
+                  "content": 474.19
+                },
+                {
+                  "measure": {
+                    "id": "4553f653-588c-4d06-aef3-0db322364833"
+                  },
+                  "content": 844.29
+                }
+              ],
+              "dimensionData": {
+                "id": "9"
+              },
+              "children": [
+                {
+                  "node": {
+                    "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 148.43
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 698.21
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "3"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "4017c785-b7e2-4d50-a1cb-b168c3d8db7c"
+                  },
+                  "measureValues": [
+                    {
+                      "measure": {
+                        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+                      },
+                      "content": 303.24
+                    },
+                    {
+                      "measure": {
+                        "id": "4553f653-588c-4d06-aef3-0db322364833"
+                      },
+                      "content": 340.56
+                    }
+                  ],
+                  "dimensionData": {
+                    "id": "7"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "measures": [
+    {
+      "id": "0",
+      "order": "0",
+      "description": "Slovakia",
+      "editable": false,
+      "dataType": {
+        "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+        "description": "currency"
+      }
+    },
+    {
+      "id": "1",
+      "order": "1",
+      "description": "Holy See",
+      "editable": true,
+      "dataType": {
+        "id": "ea4b1e0f-b27d-4bb7-b542-47449552bd43",
+        "description": "currency"
+      }
+    }
+  ],
+  "dimensionsData": [
+    {
+      "dimension": {
+        "id": "0",
+        "alias": "Filial"
+      },
+      "contents": [
+        {
+          "dimensionDataId": "0",
+          "content": "AGP"
+        },
+        {
+          "dimensionDataId": "4",
+          "content": "Agricola Horizonte"
+        }
+      ]
+    },
+    {
+      "dimension": {
+        "id": "1",
+        "alias": "Profissional"
+      },
+      "contents": [
+        {
+          "dimensionDataId": "1",
+          "content": "Seu Zé"
+        },
+        {
+          "dimensionDataId": "5",
+          "content": "Seu Felipe"
+        },
+        {
+          "dimensionDataId": "8",
+          "content": "Seu Luiz"
+        }
+      ]
+    },
+    {
+      "dimension": {
+        "id": "2",
+        "alias": "Customer"
+      },
+      "contents": [
+        {
+          "dimensionDataId": "2",
+          "content": "João"
+        },
+        {
+          "dimensionDataId": "6",
+          "content": "Cezar"
+        },
+        {
+          "dimensionDataId": "9",
+          "content": "Adair"
+        }
+      ]
+    },
+    {
+      "dimension": {
+        "id": "3",
+        "alias": "Product"
+      },
+      "contents": [
+        {
+          "dimensionDataId": "3",
+          "content": "ROUNDUP"
+        },
+        {
+          "dimensionDataId": "7",
+          "content": "2,4 - D AMINA"
+        }
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "id": "87661d07-a952-450b-8b6f-6e02cd05260c",
+      "node": {
+        "id": "87661d07-a952-450b-8b6f-6e02cd05260c"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 123
+    },
+    {
+      "id": "c486420a-44f6-4afc-9d23-771263e2cb01",
+      "node": {
+        "id": "c486420a-44f6-4afc-9d23-771263e2cb01"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 92490
+    },
+    {
+      "id": "50370f39-c461-4af8-8b5e-5ef5339917ed",
+      "node": {
+        "id": "50370f39-c461-4af8-8b5e-5ef5339917ed"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 67732
+    },
+    {
+      "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8",
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 68690
+    },
+    {
+      "id": "f3a01994-83a5-4f21-a380-716a9a43221f",
+      "node": {
+        "id": "f3a01994-83a5-4f21-a380-716a9a43221f"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 48652
+    },
+    {
+      "id": "c5a9adc8-eb3a-43eb-a524-dde911d49533",
+      "node": {
+        "id": "c5a9adc8-eb3a-43eb-a524-dde911d49533"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 41983
+    },
+    {
+      "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e",
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 59550
+    },
+    {
+      "id": "0a4127bf-cf00-4c3c-974d-13d2200e6511",
+      "node": {
+        "id": "0a4127bf-cf00-4c3c-974d-13d2200e6511"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 9407
+    },
+    {
+      "id": "f1ad855b-4564-4265-802b-c3ba5ab65ac5",
+      "node": {
+        "id": "f1ad855b-4564-4265-802b-c3ba5ab65ac5"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 40094
+    },
+    {
+      "id": "f4aa5f45-9cb2-43c8-b1e7-1e06c63a4742",
+      "node": {
+        "id": "f4aa5f45-9cb2-43c8-b1e7-1e06c63a4742"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 32806
+    },
+    {
+      "id": "c25e711b-3375-4816-8aa8-7a179c0f55ca",
+      "node": {
+        "id": "c25e711b-3375-4816-8aa8-7a179c0f55ca"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 78154
+    },
+    {
+      "id": "fc31d4cf-9dbf-4b04-955e-4b20f4718165",
+      "node": {
+        "id": "fc31d4cf-9dbf-4b04-955e-4b20f4718165"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 44922
+    },
+    {
+      "id": "422560e8-89e3-4356-be70-8884199b47ba",
+      "node": {
+        "id": "422560e8-89e3-4356-be70-8884199b47ba"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 32893
+    },
+    {
+      "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20",
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 62479
+    },
+    {
+      "id": "2927cc7b-f645-438d-b298-cd18072c21a4",
+      "node": {
+        "id": "2927cc7b-f645-438d-b298-cd18072c21a4"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 84149
+    },
+    {
+      "id": "e77c1e35-878e-4ab8-9518-309e091078ce",
+      "node": {
+        "id": "e77c1e35-878e-4ab8-9518-309e091078ce"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 82693
+    },
+    {
+      "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff",
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 31716
+    },
+    {
+      "id": "4c373d36-216c-40d1-8e5a-0fe423d6758a",
+      "node": {
+        "id": "4c373d36-216c-40d1-8e5a-0fe423d6758a"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 21425
+    },
+    {
+      "id": "10198db0-5356-4342-bba7-4b9e64a7a8f0",
+      "node": {
+        "id": "10198db0-5356-4342-bba7-4b9e64a7a8f0"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 33121
+    },
+    {
+      "id": "181f60bf-7bff-4fbf-a73d-5b105432be0a",
+      "node": {
+        "id": "181f60bf-7bff-4fbf-a73d-5b105432be0a"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 39519
+    },
+    {
+      "id": "0667c09f-ace4-4d7e-b017-bfd6f823286c",
+      "node": {
+        "id": "0667c09f-ace4-4d7e-b017-bfd6f823286c"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 22716
+    },
+    {
+      "id": "2648dc79-487b-4e9a-af5a-02180d34386b",
+      "node": {
+        "id": "2648dc79-487b-4e9a-af5a-02180d34386b"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 46946
+    },
+    {
+      "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5",
+      "node": {
+        "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 1
+    },
+    {
+      "id": "4b6bc62c-4ecd-4211-8689-01313af150b7",
+      "node": {
+        "id": "4017c785-b7e2-4d50-a1cb-b168c3d8db7c"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 1
+    },
+    {
+      "id": "b97689ce-fc38-43ff-accf-32fb33c644bc",
+      "node": {
+        "id": "87661d07-a952-450b-8b6f-6e02cd05260c"
+      },
+      "measure": {
+        "id": "62785d94-024b-4a8a-93af-602cf813d14f"
+      },
+      "value": 59236
+    },
+    {
+      "id": "4f1f3c2e-9f22-48dd-81d3-681ae0dc8070",
+      "node": {
+        "id": "c486420a-44f6-4afc-9d23-771263e2cb01"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 92490
+    },
+    {
+      "id": "f2403952-a82f-40b3-849a-1bd0e481b8b7",
+      "node": {
+        "id": "50370f39-c461-4af8-8b5e-5ef5339917ed"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 67732
+    },
+    {
+      "id": "ade1d076-61bd-4d65-97b1-befbee3de1f9",
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 68690
+    },
+    {
+      "id": "ae22fd85-eb81-47fe-a317-3a46c15dd4eb",
+      "node": {
+        "id": "f3a01994-83a5-4f21-a380-716a9a43221f"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 48652
+    },
+    {
+      "id": "c7c0802d-c8b5-4efb-bd31-984f685425fb",
+      "node": {
+        "id": "c5a9adc8-eb3a-43eb-a524-dde911d49533"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 41983
+    },
+    {
+      "id": "024309c0-e26e-49ef-9c67-00038bc8f48d",
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 59550
+    },
+    {
+      "id": "08e80b64-85a5-4c4a-a55b-bee8913338b7",
+      "node": {
+        "id": "0a4127bf-cf00-4c3c-974d-13d2200e6511"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 9407
+    },
+    {
+      "id": "cb06bc27-ce51-495f-930d-4e3f6092b913",
+      "node": {
+        "id": "f1ad855b-4564-4265-802b-c3ba5ab65ac5"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 40094
+    },
+    {
+      "id": "f7c84c11-24e6-4e0b-bb17-6579aac5cbd8",
+      "node": {
+        "id": "f4aa5f45-9cb2-43c8-b1e7-1e06c63a4742"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 32806
+    },
+    {
+      "id": "9be510bc-61e2-417c-aa5b-3a73b584d1b9",
+      "node": {
+        "id": "c25e711b-3375-4816-8aa8-7a179c0f55ca"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 78154
+    },
+    {
+      "id": "08bf629f-7a6d-4eeb-99e8-d2d2e064c0df",
+      "node": {
+        "id": "fc31d4cf-9dbf-4b04-955e-4b20f4718165"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 44922
+    },
+    {
+      "id": "990d119a-989c-436f-9c24-04e32f19aa9e",
+      "node": {
+        "id": "422560e8-89e3-4356-be70-8884199b47ba"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 32893
+    },
+    {
+      "id": "16a14e7a-0da9-4713-b508-47a08949a605",
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 62479
+    },
+    {
+      "id": "5ebdcc08-4ed2-4c01-8463-cc43bdf8c06f",
+      "node": {
+        "id": "2927cc7b-f645-438d-b298-cd18072c21a4"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 84149
+    },
+    {
+      "id": "42df05fa-2131-4f4b-9727-3b1ce04d8c09",
+      "node": {
+        "id": "e77c1e35-878e-4ab8-9518-309e091078ce"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 82693
+    },
+    {
+      "id": "8e0bba10-adf1-4d33-b1ca-70bd98b8f711",
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 31716
+    },
+    {
+      "id": "cb418192-7494-4426-ba42-2bc1c09339c9",
+      "node": {
+        "id": "4c373d36-216c-40d1-8e5a-0fe423d6758a"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 21425
+    },
+    {
+      "id": "902054e8-e779-4072-b954-d6ce0e971030",
+      "node": {
+        "id": "10198db0-5356-4342-bba7-4b9e64a7a8f0"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 33121
+    },
+    {
+      "id": "5d0f3d4e-cfb3-4140-9967-c8931bb4f18c",
+      "node": {
+        "id": "181f60bf-7bff-4fbf-a73d-5b105432be0a"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 39519
+    },
+    {
+      "id": "2d84d155-4eb1-4964-be21-c42a6fa30725",
+      "node": {
+        "id": "0667c09f-ace4-4d7e-b017-bfd6f823286c"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 22716
+    },
+    {
+      "id": "f1947e22-b3a0-4cfa-a47d-f73635172cf5",
+      "node": {
+        "id": "2648dc79-487b-4e9a-af5a-02180d34386b"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 46946
+    },
+    {
+      "id": "5aeddf7b-8518-4d43-8ae4-5ddcc4adb703",
+      "node": {
+        "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 1
+    },
+    {
+      "id": "e4607360-4e13-4fd1-94ba-e81c53436a7f",
+      "node": {
+        "id": "4017c785-b7e2-4d50-a1cb-b168c3d8db7c"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 49087
+    },
+    {
+      "id": "c68f44d9-9995-46d9-827d-39e6a3d75e01",
+      "node": {
+        "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 1
+    },
+    {
+      "id": "a387a246-5fc5-437f-967d-d4288fd0fegg",
+      "node": {
+        "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 1
+    },
+    {
+      "id": "a387a246-5fc5-437f-967d-d4288fd0feaa",
+      "node": {
+        "id": "e8150931-afd2-497a-8812-ddf4b0dd30d5"
+      },
+      "measure": {
+        "id": "4553f653-588c-4d06-aef3-0db322364833"
+      },
+      "value": 1
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 451,
+      "id": "HkVjTMds-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 7,
+      "id": "r1Ii6GuiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 5148,
+      "id": "SkvjTfOiW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10,
+      "id": "HyjJJXui-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 44,
+      "id": "SyK2eQui-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 545,
+      "id": "Hk33e7usb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 322.26,
+      "id": "SkDy_X_jb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "ryUrl4Ojb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "SJMLx4OiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "SyTIgEusZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "S1ZvgN_s-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "ByPwlEOsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "SJEbfE_i-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "r1i-GNOj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "rkVGGEdjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HyofMEOjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "rklmMNOob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "B1DXM4doW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HJcQM4doZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "SkV5m4_ob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "r1KqQEOi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "rygomVusZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "H1wGEE_sW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HkOfEVdjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "rJizNEujb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "By0G4VOsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HkWQVNOob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HJEmE4djZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "HkusV4ds-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "SJpZHNds-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": null,
+      "id": "SyqEBNusW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1251,
+      "id": "SJhHH4OjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 152,
+      "id": "Skg8r4diW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 156.32,
+      "id": "ryXPrEOo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1523,
+      "id": "rk-II4doW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "B1N8LE_jW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "B1rL8N_ob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15,
+      "id": "ryY8IN_ib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 434,
+      "id": "SJaUUEOi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 43546,
+      "id": "HJJv8EOib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 46,
+      "id": "rkgvU4OiW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 3255,
+      "id": "SJfPIE_oW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "HJgOI4doZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 150,
+      "id": "rJEcUEOsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "SJPcUEOiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 150,
+      "id": "B1qqL4djZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1561,
+      "id": "Sk3q8EOjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "HyIjU4Os-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "HkOoUE_sW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "BkxdoIEOi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "BJFiL4_ib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "Hy2oIEOsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "SJvhU4ui-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "B1ahINOjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "rkJT8N_oW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "Sygy68EOs-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "BkeaI4uo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "rJb68EdoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "ByeZTU4Osb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "BkfTI4dj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 5151,
+      "id": "Hy7TI4_jW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "ry86UVOi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "ByPp84Oib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 5115,
+      "id": "SyOp8Ndib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15,
+      "id": "HJYa84Osb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1210,
+      "id": "By26LE_oZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2445,
+      "id": "SJ9JDNOi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 21434,
+      "id": "r1TkDVujb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1342,
+      "id": "HkXlv4OsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15612,
+      "id": "r1IsDVOjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 63653,
+      "id": "HJuiP4_oW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 626,
+      "id": "ryFowNdjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 26,
+      "id": "SJ5iDVOoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 58811,
+      "id": "r1P6vV_j-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "rJ8RvEOob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 878,
+      "id": "SkC1sEuob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1851,
+      "id": "B1qgsVuob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "Bkad3Vuo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 77,
+      "id": "rJ7yTNusW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "r1YF6VuoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "ryVoTEOob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 511,
+      "id": "Hk-O1S_ob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 5132,
+      "id": "BJfOkSds-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 541,
+      "id": "HyQdJSdiW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1,
+      "id": "B1Ed1BOiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "HknuyH_jZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "HyZUmHdjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 541,
+      "id": "r1qIXH_jZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 44,
+      "id": "S142NSOob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "HJx6Vrdj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15,
+      "id": "BkfaNSdsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 511,
+      "id": "rJmpVrdsb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "HJl7pVSuo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "r1VTVH_s-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "rkBT4HdoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 81,
+      "id": "BJdpVHOjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "ByYp4SuiW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 8484,
+      "id": "r1eK6EHOj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 125,
+      "id": "Hy6da-Fj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1560,
+      "id": "rkytpZFsb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15,
+      "id": "BkgFaZtoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1,
+      "id": "SkZtaZKjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2,
+      "id": "ryXKpbKjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0.2,
+      "id": "Bk4YTWYsb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "B1PYa-Ksb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151515,
+      "id": "Bk5FTbFsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 151,
+      "id": "SJnFpbtjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15151,
+      "id": "BJTY6bYo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 126155,
+      "id": "SkGqa-KjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1020030,
+      "id": "BJPq6ZYo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10.26,
+      "id": "BknqabKob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 12030,
+      "id": "ryZs6WKs-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 51,
+      "id": "r1CtkzKjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "SkxcyGKo-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 417,
+      "id": "Sk14XMYjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 45151,
+      "id": "rkHVYfFoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 87419,
+      "id": "SkeUKfYsZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 256.56,
+      "id": "HJKOKfKj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 18185,
+      "id": "rkT2tGtsb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 4151,
+      "id": "Bkzx9MYjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 4151.25,
+      "id": "r1SL9zFjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 4152,
+      "id": "BkmP5fYob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": {
+        "_input": "1526,00",
+        "_value": 1526
+      },
+      "id": "rJj6qGtoZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": {
+        "_input": "152,00",
+        "_value": 152
+      },
+      "id": "SkheozYjb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1152,
+      "id": "BkIzjGYjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1152.52,
+      "id": "S1Mmofti-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1152.53,
+      "id": "H1oQsGFiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1256.58,
+      "id": "ByKNifFoW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 15120,
+      "id": "S1sRsGYoW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1512,
+      "id": "rkpRjzFsb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1515,
+      "id": "rJ0AiGFiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1515151,
+      "id": "ByW1hfFsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 5151.51,
+      "id": "ryQ13MFjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "SkqDTUYjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1300,
+      "id": "Hke_a8tsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "S1N_6UFj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 80,
+      "id": "S1_u6ItsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 60,
+      "id": "rkn_6LYj-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "r17tpUFob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 40,
+      "id": "SkvF68FjW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "SkyyTDtjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1,
+      "id": "H1zkpDYsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2,
+      "id": "rJr16DFi-"
+    },
+    {
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "value": 451,
+      "id": "BkZmnuYoW"
+    },
+    {
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "value": 74,
+      "id": "B1MX3_Fs-"
+    },
+    {
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "value": 4,
+      "id": "HyHmhutj-"
+    },
+    {
+      "node": {
+        "id": "229b9d57-ec69-4156-87e8-a47fc83ff5ff"
+      },
+      "value": 5484,
+      "id": "ByRQh_Yj-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 1516,
+      "id": "rJu4h_YoZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 54,
+      "id": "H16r3OYs-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 0,
+      "id": "B1yU3_Ki-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 755,
+      "id": "B1z8hutiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 361644,
+      "id": "ryDL3uYsb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 12678789643,
+      "id": "r1oU3_Yob"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 13,
+      "id": "SygjL3dKjb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 1521,
+      "id": "Sy2I2Ots-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 3165,
+      "id": "BkT8hdtiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 13,
+      "id": "ByeTIhdYsZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 1,
+      "id": "SJWp83utiZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 346,
+      "id": "r1Gp8ndFjb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 46,
+      "id": "r1m6L3utib"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 341,
+      "id": "B1VpL3OYjb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 5,
+      "id": "HyAIn_tsZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 645,
+      "id": "rygRUn_FsW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 56,
+      "id": "SkZA83uYi-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 5956,
+      "id": "SJ1vhOKsW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 56,
+      "id": "rJgJDnOFjZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 5,
+      "id": "Bkbyw2dKsb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 687,
+      "id": "BJG1D3Otj-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 6456,
+      "id": "rkXJPhOYoZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 35,
+      "id": "S14yv3_KoW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 6416856,
+      "id": "Hyewn_tjZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 2,
+      "id": "rkxxwhuKsW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 685,
+      "id": "ByWePn_tiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 6325523,
+      "id": "HkZP3dFjW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 856,
+      "id": "r1gZD3uYjW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 31,
+      "id": "B1Wbw2dYjZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 64,
+      "id": "HJfZvhuKiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 63856,
+      "id": "HyQWwnOFi-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 416,
+      "id": "S1zw3utj-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 546,
+      "id": "r1lMw2OFiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 347,
+      "id": "H1WzDn_tiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 9634,
+      "id": "r1Gzv3utsb"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 68746,
+      "id": "rJ7zw3utj-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 79,
+      "id": "H1QDh_tsZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 46,
+      "id": "BJgmPnutiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 876,
+      "id": "Sk-7P3dKo-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 4,
+      "id": "rkzmPhdFib"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 9646,
+      "id": "B1QQw3OYj-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 86,
+      "id": "ry4v2dtsZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 4,
+      "id": "r1l4vnOYiW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 646,
+      "id": "ryWVDnOYiZ"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 86,
+      "id": "BJfEw3_Yj-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 49,
+      "id": "r1XVvnOKo-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 6,
+      "id": "rJSvndFsW"
+    },
+    {
+      "node": {
+        "id": "c25e711b-3375-4816-8aa8-7a179c0f55ca"
+      },
+      "value": 656.7,
+      "id": "rywjCtFsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 200,
+      "id": "SJgfwkjib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 200000,
+      "id": "r1HMDyosW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 32324,
+      "id": "HkZg2yos-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 20000,
+      "id": "S19znyoiZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 2,
+      "id": "BkJVh1oiZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 3,
+      "id": "ry7N2kjs-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 40000,
+      "id": "SJcN21soZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 2,
+      "id": "BJ_I3yjiZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 200000,
+      "id": "By2UnJos-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1,
+      "id": "SkTv2ysi-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1,
+      "id": "HyNdn1jiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2000000,
+      "id": "r1tdhJio-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 20000,
+      "id": "rk6qnkss-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 200000,
+      "id": "H1Goh1ssb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 20000,
+      "id": "S1do2kojZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2000000,
+      "id": "Hkm3hJjib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 515,
+      "id": "ryA56yiiZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 513,
+      "id": "rklopJiob"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1561,
+      "id": "B1-i6yiib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2696.58,
+      "id": "rJoJajii-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2529.58,
+      "id": "r1IPTiiiW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 324,
+      "id": "B1BTkVnib"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 12,
+      "id": "SyDpkEnsW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 214,
+      "id": "r1ePTy4njb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 35,
+      "id": "S1dpkN2jb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 214,
+      "id": "HytT1E3jW"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 0,
+      "id": "Sy_Cy43i-"
+    },
+    {
+      "node": {
+        "id": "dd1318e7-5e22-49fa-96b4-ed16bc109e5e"
+      },
+      "value": 34,
+      "id": "rJF01EnjZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "rJvHtgehZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 213,
+      "id": "rJP4Q-x2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 3434,
+      "id": "SkqV7Wehb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 324,
+      "id": "B12N7-ehb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 12,
+      "id": "H1CN7-x2-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 123,
+      "id": "H1gHXZg3W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 22,
+      "id": "Sy-SmWg2b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 2323,
+      "id": "r1jpQZx3Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 222,
+      "id": "HJTamWx2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 33,
+      "id": "H1Ram-gnb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "B1EZSZe3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "BywbS-enb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "HySMBWgnW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "ryizB-l2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "rJpzrZgnZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 60,
+      "id": "HklQS-ghW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 70,
+      "id": "BJfXBbg2-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "S1NmB-ghZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 50,
+      "id": "H1G4S-xhW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "rJFNHWlnb"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 0,
+      "id": "SJkpw-xhb"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 123,
+      "id": "B1eawbl3b"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 2321123,
+      "id": "B1MTPbe3Z"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "Hy_6wbx2W"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 10000000000000000000,
+      "id": "SkopP-eh-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 9,
+      "id": "Sy3pvZghZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "HJkRD-x2b"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 0,
+      "id": "Hkb0v-gnZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "BkBRwbl3b"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 0,
+      "id": "SywJObgh-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "Hysy_-e2W"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 0,
+      "id": "SJbgdZenZ"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 99999999999,
+      "id": "HJXM_bx3W"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 999999999999,
+      "id": "BJvMdZl2-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "rk9GuWl3Z"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 99999999999999,
+      "id": "r1pzdZl3-"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": null,
+      "id": "SyDO_-l2W"
+    },
+    {
+      "node": {
+        "id": "7accbab3-6a98-4a9d-969e-4becd2aecc20"
+      },
+      "value": 0,
+      "id": "r1ocd-x3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "rJTCu-l3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "H1zxYZlhZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 9999999999999,
+      "id": "rkHlYbenb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "H1OgF-l3b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "H1FgFWx3b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999,
+      "id": "HyJpAWgn-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999,
+      "id": "B1waR-eh-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "HkAaC-ln-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1000000000000000000,
+      "id": "ry40RbehZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000000,
+      "id": "BJ3x1zxhb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "Syp-1Me2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000000,
+      "id": "Hk3Mkze3b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1000000000000000000,
+      "id": "rJKRyzxhZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000000,
+      "id": "B1EJeMx2Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000000,
+      "id": "S1VlxGxn-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000000,
+      "id": "HktelGx3Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "ryXzlze2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000000,
+      "id": "H1wLxGl3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "HJ9UlflhW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 0,
+      "id": "HyRplMenW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000,
+      "id": "rJaReze3b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 100000000000000000000,
+      "id": "HkIlZMghZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "BJi-WGl2-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999,
+      "id": "HkFmbzenW"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "SJ2m-Gg2W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "B1eNZzln-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": null,
+      "id": "SJ_2ZMx2-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999,
+      "id": "HJYHfzenZ"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999,
+      "id": "HkpHzzxn-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "BkM8GMlh-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 1000000000000000000,
+      "id": "SJw8GGg3W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "H13PMfgn-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "S1VdzMl3b"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "H1vdGzg3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "Hkk3Mzx2Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "SyX3Mfx3W"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 8888888888888888,
+      "id": "HJhGXzg2Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 88888888888888900,
+      "id": "BJYQ7ze3Z"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "rkc4Xfg3-"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 999999999999999,
+      "id": "H1S7Ezenb"
+    },
+    {
+      "node": {
+        "id": "cf03955e-0a87-4aef-9172-cb9ee8989fc8"
+      },
+      "value": 10000000000000000,
+      "id": "S104NGgnZ"
+    },
+    {
+      "node": {
+        "id": "f8f26eca-fc8f-4010-8357-39cd054ceb0f"
+      },
+      "value": 151,
+      "id": "BywLWX-nW"
+    },
+    {
+      "node": {
+        "id": "68f6d338-ba71-47a5-b8bd-3f479a5a17b6"
+      },
+      "value": 10000000000000000,
+      "id": "HJlYZm-hW"
+    },
+    {
+      "node": {
+        "id": "d63cf6e1-6ed1-43a0-a560-8615e954ecc7"
+      },
+      "value": 99999,
+      "id": "rJqlfm-nW"
+    },
+    {
+      "node": {
+        "id": "d63cf6e1-6ed1-43a0-a560-8615e954ecc7"
+      },
+      "value": 10000000000000000,
+      "id": "HksbGXZn-"
+    },
+    {
+      "node": {
+        "id": "d63cf6e1-6ed1-43a0-a560-8615e954ecc7"
+      },
+      "value": 99999999999999.98,
+      "id": "H1PzGQZ2W"
+    },
+    {
+      "node": {
+        "id": "d63cf6e1-6ed1-43a0-a560-8615e954ecc7"
+      },
+      "value": 99999999999999.9,
+      "id": "r1imz7b3W"
+    },
+    {
+      "node": {
+        "id": "d63cf6e1-6ed1-43a0-a560-8615e954ecc7"
+      },
+      "value": 10000000000000000,
+      "id": "HkwJX7W3-"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 10000000000000000,
+      "id": "Hk50EQ-nZ"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 999999999999.99,
+      "id": "ryk8w7-2W"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 99999999999999,
+      "id": "ByfDDQW2W"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 999999999999999,
+      "id": "r13PwQ-3b"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 10000000000000000,
+      "id": "HJDdPmb3Z"
+    },
+    {
+      "node": {
+        "id": "22b1563e-afe3-44b0-a899-445921bab439"
+      },
+      "value": 99999999999999.98,
+      "id": "H1iOwQWnW"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "ryDnvQZ2W"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.95,
+      "id": "H1mpvmbnW"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "B1O6vXW3-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 9999999999999.98,
+      "id": "rkppvmbhb"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "B1GCvmb3-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.9,
+      "id": "H1hAw7-2-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 10000000000000000,
+      "id": "Sk3yOmb3W"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "rkmgOXbn-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 10000000000000000,
+      "id": "ByCeOQZh-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "r1qZu7Znb"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.95,
+      "id": "rk3zuXb3W"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "BkgHt7Z3b"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.95,
+      "id": "B1mHKXWhZ"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 10000000000000000,
+      "id": "BJwHKmbnZ"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "rJ6SYQ-2-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.95,
+      "id": "Sy-8tQb2Z"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 100000000000000000,
+      "id": "rkLz27-2-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 10000000000000000,
+      "id": "HJym2X-hb"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.98,
+      "id": "HyB72mbn-"
+    },
+    {
+      "node": {
+        "id": "2113a49f-6898-47ec-a675-a9a1761636a4"
+      },
+      "value": 99999999999999.95,
+      "id": "SyO7nmW2W"
+    },
+    {
+      "node": {
+        "id": "43c51567-d516-4ee8-bb0d-8bc3b3ceb448"
+      },
+      "value": 10000000000000000,
+      "id": "S1zaAHWn-"
+    },
+    {
+      "node": {
+        "id": "7f80e107-aea6-4b49-9f22-59b1e8a37c79"
+      },
+      "value": 10000000000000000,
+      "id": "HyNBk8bhW"
+    },
+    {
+      "node": {
+        "id": "5d4fcd39-be24-453a-9aa2-f0b93276fd5c"
+      },
+      "value": 10000000000000000,
+      "id": "rk5GeIb3b"
+    },
+    {
+      "node": {
+        "id": "1407ca71-9d6c-4540-b483-7889a9b050b0"
+      },
+      "value": 10000000000000000,
+      "id": "HydSZIbn-"
+    },
+    {
+      "node": {
+        "id": "f50107cf-d458-45ac-84e9-9a3e0c5131b2"
+      },
+      "value": 10000000000000000,
+      "id": "HyAFfLbnW"
+    },
+    {
+      "node": {
+        "id": "1a36b8f5-f4e7-446a-8795-1f3b5a22ad76"
+      },
+      "value": 99999,
+      "id": "SJ917LZ2Z"
+    },
+    {
+      "node": {
+        "id": "1a36b8f5-f4e7-446a-8795-1f3b5a22ad76"
+      },
+      "value": 9999900,
+      "id": "HJybXUZ2-"
+    },
+    {
+      "node": {
+        "id": "1a36b8f5-f4e7-446a-8795-1f3b5a22ad76"
+      },
+      "value": 9999,
+      "id": "SJnz7Lbhb"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 99985,
+      "id": "SJ0Um8Z3-"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 999985,
+      "id": "B1AP7U-3-"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 95954,
+      "id": "HkatmUWnb"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 958236,
+      "id": "HJMjmIb3W"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 9895566,
+      "id": "r1RhXIWhb"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 958685,
+      "id": "SkuJ4IbnW"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 9856656,
+      "id": "SJzhIUWh-"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 999,
+      "id": "rkjpLIWnb"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 99900,
+      "id": "r1vNPIbhb"
+    },
+    {
+      "node": {
+        "id": "67007f8b-06ed-4493-8557-8a7c75750c4b"
+      },
+      "value": 999999999,
+      "id": "BJnHv8-2W"
+    },
+    {
+      "node": {
+        "id": "d48dddb0-e8ef-4736-b605-619a42ac1a4d"
+      },
+      "value": 9999999,
+      "id": "BJxEOU-h-"
+    },
+    {
+      "node": {
+        "id": "d48dddb0-e8ef-4736-b605-619a42ac1a4d"
+      },
+      "value": 9999,
+      "id": "rk_4dUWnW"
+    },
+    {
+      "node": {
+        "id": "d48dddb0-e8ef-4736-b605-619a42ac1a4d"
+      },
+      "value": 999999,
+      "id": "ryC4O8-2W"
+    },
+    {
+      "node": {
+        "id": "d48dddb0-e8ef-4736-b605-619a42ac1a4d"
+      },
+      "value": 9999999,
+      "id": "HkWcKL-hZ"
+    },
+    {
+      "node": {
+        "id": "d0c2d039-4b14-42f0-99fe-7d9939773a66"
+      },
+      "value": 99958,
+      "id": "S1bg9UZ2-"
+    },
+    {
+      "node": {
+        "id": "d0c2d039-4b14-42f0-99fe-7d9939773a66"
+      },
+      "value": 9999567,
+      "id": "SJgUcIWnZ"
+    },
+    {
+      "node": {
+        "id": "d0c2d039-4b14-42f0-99fe-7d9939773a66"
+      },
+      "value": 9999999,
+      "id": "r1Dw5Ibh-"
+    },
+    {
+      "node": {
+        "id": "d0c2d039-4b14-42f0-99fe-7d9939773a66"
+      },
+      "value": 999,
+      "id": "Bktu5UZnW"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": null,
+      "id": "Bkojewbnb"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999.52,
+      "id": "Hk96lw-2-"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 99952,
+      "id": "BJdAlv-3b"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999.2,
+      "id": "S1vxWvW3W"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 99956,
+      "id": "B1HW-w-3Z"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999,
+      "id": "S1HDWPWhW"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999988,
+      "id": "rJesbDZ2W"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 9999800,
+      "id": "Hkm-MvZhW"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999,
+      "id": "ByLmfDb2W"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 99990,
+      "id": "S1eNGDbnW"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999.98,
+      "id": "SJ64MD-nZ"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999.3,
+      "id": "ryQ2fvZ2b"
+    },
+    {
+      "node": {
+        "id": "b13657ee-3b0e-4edf-8631-e7fb0b394bc1"
+      },
+      "value": 999999.2,
+      "id": "HyEsU_Z3b"
+    },
+    {
+      "node": {
+        "id": "466c81b0-03b6-481f-9364-e05cb69ac6e9"
+      },
+      "value": null,
+      "id": "ByTr9dZ2W"
+    },
+    {
+      "node": {
+        "id": "4b777cab-800a-4e62-a771-0d66af601b64"
+      },
+      "value": null,
+      "id": "HJQejObh-"
+    },
+    {
+      "node": {
+        "id": "61ee37ee-e000-4605-b818-6b89a91ebd61"
+      },
+      "value": null,
+      "id": "rkbjiOZ2b"
+    },
+    {
+      "node": {
+        "id": "93fdddd1-646d-4ea9-b270-30c43505269b"
+      },
+      "value": 0,
+      "id": "Hkncnu-h-"
+    },
+    {
+      "node": {
+        "id": "0ec7bddf-6026-4493-b8c3-24b448d5a676"
+      },
+      "value": 0,
+      "id": "Hk6chuW3W"
+    },
+    {
+      "node": {
+        "id": "b0c50c79-a227-44d3-8980-a710ca7e7a28"
+      },
+      "value": 0,
+      "id": "S1zl6u-3-"
+    },
+    {
+      "node": {
+        "id": "09feab48-373f-4e62-9736-1665a83f494f"
+      },
+      "value": 0,
+      "id": "BkBL6_bh-"
+    },
+    {
+      "node": {
+        "id": "b0dc6941-018e-4866-b96e-d772f9fc9873"
+      },
+      "value": 0,
+      "id": "rkaTp_Zn-"
+    },
+    {
+      "node": {
+        "id": "b0dc6941-018e-4866-b96e-d772f9fc9873"
+      },
+      "value": 34400,
+      "id": "r1XRp_W2b"
+    },
+    {
+      "node": {
+        "id": "ff4ee958-3c76-4b09-81b2-baa62f8da1cc"
+      },
+      "value": 7.214,
+      "id": "ryn0ad-hb"
+    },
+    {
+      "node": {
+        "id": "ff4ee958-3c76-4b09-81b2-baa62f8da1cc"
+      },
+      "value": 0,
+      "id": "ry_kAdW3Z"
+    },
+    {
+      "node": {
+        "id": "a78abbf4-1ed0-4d53-bd16-4bcbb5b830fd"
+      },
+      "value": 48500,
+      "id": "Hkoi8Hz3W"
+    },
+    {
+      "node": {
+        "id": "08303bda-bc93-4d7a-8120-4a5bf542a410"
+      },
+      "value": 0,
+      "id": "S1B_KrMnZ"
+    },
+    {
+      "node": {
+        "id": "471e87f1-aad8-45b7-aef4-21f70acbea5d"
+      },
+      "value": 343,
+      "id": "Hyt69Bf3b"
+    },
+    {
+      "node": {
+        "id": "3cd7328c-a743-4e0d-966f-599952b82808"
+      },
+      "value": 484,
+      "id": "HyHclUfhb"
+    },
+    {
+      "node": {
+        "id": "3cd7328c-a743-4e0d-966f-599952b82808"
+      },
+      "value": 515,
+      "id": "H1cqlUfn-"
+    }
+  ],
+  "dimensions": {
+    "root": {
+      "id": "0",
+      "dataset": {
+        "id": "72f9ffd2-a804-4a88-8756-c142375c3bfe",
+        "alias": "Filial"
+      },
+      "child": {
+        "id": "1",
+        "dataset": {
+          "id": "286dda8f-b416-44d9-ab0e-5a0cdf315873",
+          "alias": "Profissional"
+        },
+        "child": {
+          "id": "2",
+          "dataset": {
+            "id": "0a98967c-132e-4ed1-a642-281fe48ab30d",
+            "alias": "Cliente"
+          },
+          "child": {
+            "id": "3",
+            "dataset": {
+              "id": "8e60eaf0-a7cf-4579-9079-359b760b245e",
+              "alias": "Produto"
+            }
+          }
+        }
+      }
+    }
+  }
+}
