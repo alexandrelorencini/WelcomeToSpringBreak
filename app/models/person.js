@@ -7,13 +7,12 @@
  * Data: 25/07/2018
  */
 
- var mongoose = require('mongoose');
- var uuid = require('uuid/v4');
- var Schema = mongoose.Schema;
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
 
- var personSchema = new Schema({
-     nome: String
- });
+var personSchema = new Schema({
+    nome: String
+});
 
- module.exports = mongoose.model('Person', personSchema);
+module.exports = mongoose.model('Person', personSchema);
