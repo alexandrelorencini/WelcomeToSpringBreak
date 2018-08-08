@@ -1,13 +1,3 @@
-/**
- * Arquivo: server.js
- * Descrição: Gerenciador e controlador de rotas
- * Author: Alexandre Daniel Lorencini
- * Data de criação: 25/07/2018
- */
-
-//Setup da app
-
-//Chamadas dos pacotes:
 var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
@@ -15,19 +5,24 @@ var mongoose = require('mongoose');
 var Person = require('./app/models/person');
 var uuid = require('uuid/v4');
 
-//URI: MLab
+mongoose.Promise = global.Promise;
+
+//Banco MongoDB com MLab Cloud
 mongoose.connect('mongodb://lorencini:ws18012001@ds137957.mlab.com:37957/apibase', {
     useNewUrlParser: true
-});
+})
 
-//Maneira Local: MongoDB:
-//mongoose.connect('mongodb://localhost:27017/apibase')
+/** 
+* Banco MongoDB Local
+* mongoose.connect('mongodb://localhost:27017/apiwsb', {
+*     useNewUrlParser: true
+* });
+**/
 
 //Configuração da variavel app para usar o 'bodyParser()':
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-//Definição da porta da API
 var port = process.env.port || 8000;
 
 //================================================
@@ -55,8 +50,8 @@ router.get('/', function (req, res) {
 router.route('/person')
 
     .post(function (req, res) {
-        var person = new Person();
 
+        var person = new Person();
         person.nome = req.body.nome;
         person.id = uuid();
 
@@ -64,11 +59,66 @@ router.route('/person')
             if (error)
                 res.send('Erro ao tentar salvar o cadastro de pessoa...: ' + error);
 
-            res.json({ message: 'Person cadastrada com Sucesso!' });
+            res.json({ id: person.id });
         });
-    });
+    })
 
+    .get(function (req, res) {
+        Person.find(function (error, person) {
+            if (error)
+                res.send('Erro ao tentar conectar-se com o banco MLab...: ' + error);
+            res.json(person);
+        })
+    })
 
+//Rotas que terminarem com '/person/:person_id' (servir: GET & PUT & DELETE)
+
+router.route('/person/:person_id')
+
+    .get(function (req, res) {
+
+        //Função para poder selecionar um determinado person por ID, depois verifica, se caso não encontrar o ID, retorna msg de erro!
+        Person.findById(req.params.person_id, function (error, person) {
+            if (error)
+                res.send('Erro ao tentar encontrar o ID da pessoa');
+            res.json(person);
+
+        })
+    })
+
+    //PUT por ID
+
+    //encontrar o id
+    .put(function (req, res) {
+        Person.findById(req.params.person_id, function (error, person) {
+            if (error)
+                res.send('Id da pessoa não foi encontrado....: ', error);
+
+            //buscar do body
+            person.nome = req.body.nome;
+
+            //salvar a propriedade
+            person.save(function (error) {
+                if (error)
+                    res.send('Erro ao atualizar a pessoa...: ' + error)
+
+                res.json({ message: 'Pessoa atualizada com sucesso!' })
+            });
+        });
+    })
+
+    .delete(function (req, res) {
+
+        Person.remove({
+            _id: req.params.person_id
+        },
+            function (error) {
+                if (error)
+                    res.send('Id da pessoa não foi encontrado....: ' + error);
+
+                res.json({ message: 'Pessoa excluida com Sucesso!' });
+            })
+    })
 
 
 //Definição de padrão de rotas pré-fixadas: '/api':
