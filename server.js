@@ -12,7 +12,7 @@ mongoose.connect('mongodb://lorencini:ws18012001@ds137957.mlab.com:37957/apibase
     useNewUrlParser: true
 })
 
-/** 
+/**
 * Banco MongoDB Local
 * mongoose.connect('mongodb://localhost:27017/apiwsb', {
 *     useNewUrlParser: true
@@ -25,7 +25,7 @@ app.use(bodyParser.json());
 
 var port = process.env.port || 8000;
 
-//================================================
+
 //Rotas da API:
 //================================================
 
