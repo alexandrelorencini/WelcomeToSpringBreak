@@ -13,6 +13,6 @@ var Schema = mongoose.Schema;
 
 var personSchema = new Schema({
     nome: String
-});
+})
 
-module.exports = mongoose.model('Person', personSchema);
+module.exports = mongoose.model('Person', personSchema)

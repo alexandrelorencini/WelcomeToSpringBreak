@@ -8,11 +8,12 @@ const metaScreens = require('./resources/meta-screens');
 const metaElements = require('./resources/meta-elements');
 
 commander.option('-p, --port <n>', "Mock server's port").parse(process.argv);
-const port = commander.port || '3000';
 
+const port = commander.port || '3000';
 const server = jsonServer.create();
 const router = jsonServer.router(path.resolve(__dirname, 'db', 'db.json'));
 const middlewares = jsonServer.defaults();
+
 const redirects = jsonServer.rewriter({
     "/api/v2/business-template-builder/*": "/$1",
     "/meta-objects/:metaObjectId/meta-attributes": "/meta-attributes?metaObjectId=:metaObjectId",
