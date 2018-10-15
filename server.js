@@ -1,15 +1,17 @@
-var express = require('express');
-var app = express();
 var bodyParser = require('body-parser');
+var express = require('express');
 var mongoose = require('mongoose');
 var Person = require('./app/models/person');
 var uuid = require('uuid/v4');
+var constants = require('./constants');
+var app = express();
+
 
 mongoose.Promise = global.Promise;
 
 //Banco MongoDB com MLab Cloud
-mongoose.connect('mongodb://lorencini:ws18012001@ds137957.mlab.com:37957/apibase', {
-    useNewUrlParser: true
+mongoose.connect('mongodb://wssim:teste123@ds225902.mlab.com:25902/personbase', {
+    useNewUrlParser: true,
 })
 
 /**
@@ -39,7 +41,7 @@ router.use(function (req, res, next) {
 
 //Testando uma rota exemplo:
 router.get('/', function (req, res) {
-    res.json({ message: 'Beleza! Bem vindo a nossa Loja XYZ' })
+    res.json({ message: 'Beleza! Bem vindo' })
 });
 
 //API's:
@@ -71,8 +73,6 @@ router.route('/person')
         })
     })
 
-//Rotas que terminarem com '/person/:person_id' (servir: GET & PUT & DELETE)
-
 router.route('/person/:person_id')
 
     .get(function (req, res) {
@@ -86,18 +86,14 @@ router.route('/person/:person_id')
         })
     })
 
-    //PUT por ID
-
-    //encontrar o id
+    //PUT encontrar o id
     .put(function (req, res) {
         Person.findById(req.params.person_id, function (error, person) {
             if (error)
                 res.send('Id da pessoa não foi encontrado....: ', error);
 
-            //buscar do body
             person.nome = req.body.nome;
 
-            //salvar a propriedade
             person.save(function (error) {
                 if (error)
                     res.send('Erro ao atualizar a pessoa...: ' + error)
@@ -124,10 +120,7 @@ router.route('/person/:person_id')
 //Definição de padrão de rotas pré-fixadas: '/api':
 app.use('/api', router);
 
-//================================================
-
-//Iniciando a Aplicação (servidor):
 app.listen(port, () => {
-    console.log('JSON Server is running on port ' + port);
+    console.log('Express is running on port ' + port);
 });
 
