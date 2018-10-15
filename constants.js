@@ -1,4 +1,4 @@
 module.exports = {
-    MONGO_DB_USER: 'lorencini',
-    MONGO_DB_PASSWORD: 'ws18012001*',
+    MSG_ID_NOT_fOUND: 'Person ID Not Found!',
+    MSG_ERROR_CONECT_MLAB: 'Error trying to connect to MLAB',
 };
