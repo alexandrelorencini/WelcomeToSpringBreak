@@ -2,36 +2,18 @@ var bodyParser = require('body-parser');
 var express = require('express');
 var mongoose = require('mongoose');
 var Person = require('./app/models/person');
-var uuid = require('uuid/v4');
-var constants = require('./constants');
+var uuidv4 = require('uuid/v4');
 var app = express();
-
+var port = process.env.port || 8000;
 
 mongoose.Promise = global.Promise;
-
-//Banco MongoDB com MLab Cloud
 mongoose.connect('mongodb://wssim:teste123@ds225902.mlab.com:25902/personbase', {
     useNewUrlParser: true,
 })
 
-/**
-* Banco MongoDB Local
-* mongoose.connect('mongodb://localhost:27017/apiwsb', {
-*     useNewUrlParser: true
-* });
-**/
-
-//Configuração da variavel app para usar o 'bodyParser()':
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-var port = process.env.port || 8000;
-
-
-//Rotas da API:
-//================================================
-
-//criando uma instancia das rotas via express:
 var router = express.Router();
 
 router.use(function (req, res, next) {
@@ -45,8 +27,6 @@ router.get('/', function (req, res) {
 });
 
 //API's:
-//================================================
-
 //Rotas que terminarem com '/person' (servir: GET ALL & POST)
 
 router.route('/person')
@@ -54,8 +34,8 @@ router.route('/person')
     .post(function (req, res) {
 
         var person = new Person();
-        person.nome = req.body.nome;
-        person.id = uuid();
+        person.name = req.body.name;
+        person.id = uuidv4();
 
         person.save(function (error) {
             if (error)
@@ -91,9 +71,7 @@ router.route('/person/:person_id')
         Person.findById(req.params.person_id, function (error, person) {
             if (error)
                 res.send('Id da pessoa não foi encontrado....: ', error);
-
-            person.nome = req.body.nome;
-
+            person.name = req.body.name;
             person.save(function (error) {
                 if (error)
                     res.send('Erro ao atualizar a pessoa...: ' + error)
@@ -116,10 +94,8 @@ router.route('/person/:person_id')
             })
     })
 
-
 //Definição de padrão de rotas pré-fixadas: '/api':
 app.use('/api', router);
-
 app.listen(port, () => {
     console.log('Express is running on port ' + port);
 });
