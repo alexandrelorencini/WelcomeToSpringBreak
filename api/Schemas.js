@@ -5,7 +5,12 @@ var Schema = mongoose.Schema;
 
 
 var personSchema = new Schema({
-    name: String,
+    name: {
+        type: String,
+        minlength: 10,
+        maxlength: 80,
+        required: true
+    }
 })
 
 module.exports = mongoose.model('Person', personSchema)

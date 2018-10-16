@@ -1,9 +1,10 @@
 var bodyParser = require('body-parser');
 var express = require('express');
 var mongoose = require('mongoose');
-var Person = require('./api/person/personSchema');
+var Person = require('./api/Schemas');
 var uuidv4 = require('uuid/v4');
 var globals = require('./constants')
+var MUUID = require('uuid-mongodb');
 var app = express();
 var port = process.env.port || 8000;
 var router = express.Router();
@@ -18,16 +19,17 @@ mongoose.connect('mongodb://wssim:teste123@ds225902.mlab.com:25902/personbase', 
 
 router.route('/person')
 
-  /*  .post(function (req, res) {
-        var person = new Person();
+    .post(function (req, res) {
+        const person = new Person();
+        const UUIDV4 = MUUID.v4();
         person.name = req.body.name;
-        person.id = uuidv4();
+        person.id = UUIDV4.toString();
         person.save(function (error) {
             if (error)
-                res.send('Erro ao tentar salvar o cadastro de pessoa...: ' + error);
+                res.send(422, `${globals.MSG_POST_ERROR} ${'\n'}${error}`);
             res.json({ id: person.id });
         });
-    }) */
+    })
 
     .get(function (req, res) {
         Person.find(function (error, person) {
