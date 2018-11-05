@@ -11,6 +11,8 @@ var router = express.Router();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+mongoose.model('Person', personSchema);
+
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://wssim:teste123@ds225902.mlab.com:25902/personbase', {
     useNewUrlParser: true,
@@ -22,10 +24,11 @@ router.route('/person')
         const person = new Person();
         person.name = req.body.name;
         person.save(function (err) {
-            if (err)
-                res.status(422).send(`${globals.MSG_POST_ERROR}${'\n'}${err}`);
-                res.end();
-            res.status(200).json({ id: person.id });
+            if (err) {
+                res.status(422).json({message: `${err}`});
+            } else {
+                res.json({ id: person.id });
+            }
         });
     })
 
@@ -72,7 +75,7 @@ router.route('/person/:person_id')
             })
     })
 
-    router.route('/savings')
+    router.route('/person/:person_id/savings')
 
     .post(function (req, res) {
         const savings = new Savings();
@@ -80,12 +83,11 @@ router.route('/person/:person_id')
         savings.value = req.body.value;
         savings.date = Date.now();
         savings.note = req.body.note;
-        savings.person = req.body.person
+        savings.person = req.url.person_id
 
         savings.save(function (err) {
             if (err)
                 res.status(422).send(`${globals.MSG_POST_ERROR}${'\n'}${err}`);
-                res.end();
             res.status(200).json({ id: savings.id });
         });
     })
